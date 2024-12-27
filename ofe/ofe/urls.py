@@ -15,12 +15,20 @@ Including another URLconf
     2. Add a URL to urlpatterns:  path('blog/', include('blog.urls'))
 """
 from django.contrib import admin
-from django.urls import path
+from rest_framework  import routers
+from django.urls import include, path
 from ui_service import views
+from images_management_service.api.apiviews import ImageAPIView
 
 urlpatterns = [
-    path('admin/', admin.site.urls),
+    # Default
     path('', views.index, name='index'),
+
+    #Admin
+    path('api-auth/', include('rest_framework.urls', namespace='rest_framework')), # Activation de l’authentification fournie par DRF pour nous connecter
+    path('admin/', admin.site.urls),
+    
+    # Web
     path('404/', views.error_404, name='404'),
     path('blank/', views.blank, name='blank'),
     path('buttons/', views.buttons, name='buttons'),
@@ -34,4 +42,7 @@ urlpatterns = [
     path('utilities-border/', views.utilities_border, name='utilities-border'),
     path('utilities-color/', views.utilities_color, name='utilities-color'),
     path('utilities-other/', views.utilities_other, name='utilities-other'),
+
+    # API
+    path('api/image/', ImageAPIView.as_view()),
 ]
