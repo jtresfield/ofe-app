@@ -4,7 +4,7 @@ from django.dispatch import receiver
 from PIL import Image
 from django.db.models.signals import pre_save
 
-from images_management_service.models.imagepackage import ImagePackage
+from images_management_service.models.imageimport import ImageImport
 
 
 # Images
@@ -14,7 +14,7 @@ class ImageFournisseur(models.Model):
     supplier_name = models.CharField(max_length=50)
     width = models.CharField(max_length=10, default='undefined')
     height = models.CharField(max_length=10, default='undefined')
-    image_package = models.ForeignKey(ImagePackage, null=True, on_delete=models.SET_NULL)
+    image_package = models.ForeignKey(ImageImport, null=True, on_delete=models.SET_NULL)
 
     def __str__(self):
         return f'{self.name}'

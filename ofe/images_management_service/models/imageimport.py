@@ -1,7 +1,7 @@
 from django.db import models
 
 # Import d'images
-class ImagePackage(models.Model):
+class ImageImport(models.Model):
     name = models.fields.CharField(max_length=200)
     creation_date = models.fields.DateField(auto_now_add=True)
 

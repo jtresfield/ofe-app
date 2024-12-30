@@ -8,6 +8,9 @@ import requests
 def index(request):
     return render(request, 'index.html')
 
+def old_index(request):
+    return render(request, 'bootstrap-templates/old-index.html')
+
 def error_404(request):
     return render(request, 'bootstrap-templates/404.html')
 
@@ -60,16 +63,16 @@ def phototheque_admin(request):
 
 
 # Visuels fournisseur
-def visuels_fournisseur_create_package(request):
+def visuels_fournisseur_import(request):
     """
     Vue pour afficher la liste des images packages via l'API.
     """
-    response = requests.get(API_ENDPOINTS['image_package'])  # URL dynamique si nécessaire
+    response = requests.get(API_ENDPOINTS['image_import'])  # URL dynamique si nécessaire
     if response.status_code == 200:
-        packages = response.json()  # Les données renvoyées par l'API
+        imports = response.json()  # Les données renvoyées par l'API
     else:
-        packages = []  # Par défaut, liste vide en cas d'erreur
-    return render(request, 'visuels-fournisseur/visuels-fournisseur-create-package.html', {'packages': packages})
+        imports = []  # Par défaut, liste vide en cas d'erreur
+    return render(request, 'visuels-fournisseur/visuels-fournisseur-import.html', {'imports': imports})
 
 def visuels_fournisseur_associate(request):
     """

@@ -1,7 +1,7 @@
 from rest_framework.serializers import ModelSerializer
  
 from images_management_service.models.imagefournisseur import ImageFournisseur
-from images_management_service.models.imagepackage import ImagePackage
+from images_management_service.models.imageimport import ImageImport
  
 class ImageFournisseurSerializer(ModelSerializer):
 
@@ -9,8 +9,8 @@ class ImageFournisseurSerializer(ModelSerializer):
         model = ImageFournisseur
         fields = ['name','url','supplier_name','width', 'height']
 
-class ImagePackageSerializer(ModelSerializer):
+class ImageImportSerializer(ModelSerializer):
 
     class Meta:
-        model = ImagePackage
+        model = ImageImport
         fields = ['name']

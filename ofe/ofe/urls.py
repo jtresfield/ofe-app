@@ -19,14 +19,14 @@ from django.contrib import admin
 from django.urls import include, path
 from django.conf.urls.static import static
 from ui_service import views
-from images_management_service.api.viewsets import ImageFournisseurViewSet, ImagePackageViewSet
+from images_management_service.api.viewsets import ImageFournisseurViewSet, ImageImportViewSet
 
 from rest_framework.routers import DefaultRouter
 
 # API
 router = DefaultRouter()
 router.register(r'api/image-fournisseur', ImageFournisseurViewSet, basename='imagefournisseur')
-router.register(r'api/image-package', ImagePackageViewSet, basename='imagepackage')
+router.register(r'api/image-import', ImageImportViewSet, basename='imageimport')
 
 
 urlpatterns = [
@@ -38,6 +38,7 @@ urlpatterns = [
     path('admin/', admin.site.urls),
     
     # Web
+    path('index/', views.old_index, name='index'),
     path('404/', views.error_404, name='404'),
     path('blank/', views.blank, name='blank'),
     path('buttons/', views.buttons, name='buttons'),
@@ -58,7 +59,7 @@ urlpatterns = [
     path('phototheque/admin/', views.phototheque_admin, name='phototheque-admin'),
     
     # Visuels fournisseur
-    path('visuels-fournisseur/create-package/', views.visuels_fournisseur_create_package, name='visuels-fournisseur-create-package'),
+    path('visuels-fournisseur/import/', views.visuels_fournisseur_import, name='visuels-fournisseur-import'),
     path('visuels-fournisseur/associate/', views.visuels_fournisseur_associate, name='visuels-fournisseur-associate'),
     path('visuels-fournisseur/transform/', views.visuels_fournisseur_transform, name='visuels-fournisseur-transform'),
 ]
