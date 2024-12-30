@@ -1,6 +1,7 @@
 from django.shortcuts import render
-from django.conf import settings
+from ui_service.api_config import API_ENDPOINTS
 import requests
+
 
 # Create your views here.
 
@@ -66,7 +67,7 @@ def visuels_fournisseur_associate(request):
     """
     Vue pour afficher la liste des images fournisseur via l'API.
     """
-    response = requests.get(settings.IMAGES_FOURNISSEUR_API_URL)  # URL dynamique si nécessaire
+    response = requests.get(API_ENDPOINTS['image_fournisseur'])  # URL dynamique si nécessaire
     if response.status_code == 200:
         images = response.json()  # Les données renvoyées par l'API
     else:

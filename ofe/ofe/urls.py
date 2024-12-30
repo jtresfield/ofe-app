@@ -23,8 +23,9 @@ from images_management_service.api.viewsets import ImageFournisseurViewSet
 
 from rest_framework.routers import DefaultRouter
 
+# API
 router = DefaultRouter()
-router.register(r'api/images-fournisseur', ImageFournisseurViewSet, basename='imagefournisseur')
+router.register(r'api/image-fournisseur', ImageFournisseurViewSet, basename='imagefournisseur')
 
 
 urlpatterns = [
@@ -61,6 +62,7 @@ urlpatterns = [
     path('visuels-fournisseur/transform/', views.visuels_fournisseur_transform, name='visuels-fournisseur-transform'),
 ]
 
+# Enregistrement du dossier contenant les images importées
 urlpatterns.extend(static(settings.MEDIA_URL, document_root=settings.MEDIA_ROOT))
 
 urlpatterns += router.urls
