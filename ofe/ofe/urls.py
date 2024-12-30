@@ -19,13 +19,14 @@ from django.contrib import admin
 from django.urls import include, path
 from django.conf.urls.static import static
 from ui_service import views
-from images_management_service.api.viewsets import ImageFournisseurViewSet
+from images_management_service.api.viewsets import ImageFournisseurViewSet, ImagePackageViewSet
 
 from rest_framework.routers import DefaultRouter
 
 # API
 router = DefaultRouter()
 router.register(r'api/image-fournisseur', ImageFournisseurViewSet, basename='imagefournisseur')
+router.register(r'api/image-package', ImagePackageViewSet, basename='imagepackage')
 
 
 urlpatterns = [

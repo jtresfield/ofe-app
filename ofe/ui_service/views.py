@@ -61,7 +61,15 @@ def phototheque_admin(request):
 
 # Visuels fournisseur
 def visuels_fournisseur_create_package(request):
-    return render(request, 'visuels-fournisseur/visuels-fournisseur-create-package.html')
+    """
+    Vue pour afficher la liste des images packages via l'API.
+    """
+    response = requests.get(API_ENDPOINTS['image_package'])  # URL dynamique si nécessaire
+    if response.status_code == 200:
+        packages = response.json()  # Les données renvoyées par l'API
+    else:
+        packages = []  # Par défaut, liste vide en cas d'erreur
+    return render(request, 'visuels-fournisseur/visuels-fournisseur-create-package.html', {'packages': packages})
 
 def visuels_fournisseur_associate(request):
     """

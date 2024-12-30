@@ -9,7 +9,15 @@
 
 <!-- Content Row -->
 <div class="row">
-    
+    {% for package in packages %}
+        <div class="col-md-4 mb-3">
+            <div class="card">
+                <div class="card-body">
+                    <h5 class="card-title"><b>Nom :</b> {{ package.name }}</h5>
+                </div>
+            </div>
+        </div>
+        {% endfor %}
 </div>
 
 
