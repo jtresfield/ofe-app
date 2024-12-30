@@ -51,58 +51,90 @@
       </li>
 
       <!-- Divider -->
+      <!-- <hr class="sidebar-divider"> -->
+
+      <!-- Heading -->
+      <!-- <div class="sidebar-heading">
+        Données fournisseur
+      </div> -->
+
+      <!-- Nav Item - Data Import -->
+      <!-- <li class="nav-item">
+        <a class="nav-link" href="/data-import">
+          <i class="fas fa-fw fa-chart-area"></i>
+          <span>Import de données</span></a>
+      </li> -->
+
+      <!-- Nav Item - Data Transformation -->
+      <!-- <li class="nav-item">
+        <a class="nav-link" href="/data-transformation">
+          <i class="fas fa-fw fa-chart-area"></i>
+          <span>Transformation de données</span></a>
+      </li> -->
+
+      <!-- Nav Item - Data Validation -->
+      <!-- <li class="nav-item">
+        <a class="nav-link" href="/data-validation">
+          <i class="fas fa-fw fa-chart-area"></i>
+          <span>Validation de données</span></a>
+      </li> -->
+
+      <!-- Divider -->
       <hr class="sidebar-divider">
 
       <!-- Heading -->
       <div class="sidebar-heading">
-        Données fournisseur
+        Photothèque
       </div>
 
-      <!-- Nav Item - Data Import -->
+      <!-- Nav Item - Lancement manuel du rechargement des images Akeneo → Photothèque -->
       <li class="nav-item">
-        <a class="nav-link" href="/data-import">
+        <a class="nav-link" href="/phototheque/refresh">
           <i class="fas fa-fw fa-chart-area"></i>
-          <span>Import de données</span></a>
+          <span>Rechargement de la photothèque</span></a>
       </li>
 
-      <!-- Nav Item - Data Transformation -->
+      <!-- Nav Item - Historique des rechargements Akeneo → Photothèque -->
       <li class="nav-item">
-        <a class="nav-link" href="/data-transformation">
+        <a class="nav-link" href="/phototheque/history">
           <i class="fas fa-fw fa-chart-area"></i>
-          <span>Transformation de données</span></a>
+          <span>Historique des rechargements</span></a>
       </li>
 
-      <!-- Nav Item - Data Validation -->
+      <!-- Nav Item - Administration du flux de copie Akeneo → Photothèque -->
       <li class="nav-item">
-        <a class="nav-link" href="/data-validation">
+        <a class="nav-link" href="/phototheque/admin">
           <i class="fas fa-fw fa-chart-area"></i>
-          <span>Validation de données</span></a>
+          <span>Administration du flux</span></a>
       </li>
+
+      <!-- Divider -->
+      <hr class="sidebar-divider">
 
       <!-- Heading -->
       <div class="sidebar-heading">
-        Visuels
+        Visuels fournisseur
       </div>
 
-      <!-- Nav Item - Data Import -->
+      <!-- Nav Item - Création d'un lot d'import d'images -->
       <li class="nav-item">
-        <a class="nav-link" href="/data-import">
+        <a class="nav-link" href="/visuels-fournisseur/create-package">
           <i class="fas fa-fw fa-chart-area"></i>
-          <span>Association produit-visuels</span></a>
+          <span>Création d'un lot d'import d'images</span></a>
       </li>
 
-      <!-- Nav Item - Data Transformation -->
+      <!-- Nav Item - Association d'une image brute fournisseur à un produit dans un lot d'import -->
       <li class="nav-item">
-        <a class="nav-link" href="/data-transformation">
+        <a class="nav-link" href="/visuels-fournisseur/associate">
+          <i class="fas fa-fw fa-chart-area"></i>
+          <span>Association image fournisseur-produit</span></a>
+      </li>
+
+      <!-- Nav Item - conversion des images brutes fournisseur vers des visuels importables dans ish -->
+      <li class="nav-item">
+        <a class="nav-link" href="/visuels-fournisseur/transform">
           <i class="fas fa-fw fa-chart-area"></i>
           <span>Transformation des images</span></a>
-      </li>
-
-      <!-- Nav Item - Data Validation -->
-      <li class="nav-item">
-        <a class="nav-link" href="/data-validation">
-          <i class="fas fa-fw fa-chart-area"></i>
-          <span>Administration de la photothèque</span></a>
       </li>
 
 
@@ -225,7 +257,7 @@
             <li class="nav-item dropdown no-arrow">
               <a class="nav-link dropdown-toggle" href="#" id="userDropdown" role="button" data-toggle="dropdown"
                 aria-haspopup="true" aria-expanded="false">
-                <span class="mr-2 d-none d-lg-inline text-gray-600 small">Douglas McGee</span>
+                <span class="mr-2 d-none d-lg-inline text-gray-600 small">Jason Tresfield</span>
                 <img class="img-profile rounded-circle" src="{% static 'img/undraw_profile.svg' %}">
               </a>
               <!-- Dropdown - User Information -->
