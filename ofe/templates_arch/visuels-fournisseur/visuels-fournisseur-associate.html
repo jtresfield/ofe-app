@@ -1,0 +1,30 @@
+{% extends 'base.html' %}
+{% load static %}
+
+{% block content %}
+<!-- Page Heading -->
+<div class="d-sm-flex align-items-center justify-content-between mb-4">
+    <h1 class="h3 mb-0 text-gray-800">Association image fournisseur-produit</h1>
+</div>
+
+<!-- Content Row -->
+<div class="row">
+    {% for image in images %}
+        <div class="col-md-4 mb-3">
+            <div class="card">
+                <div class="card-body">
+                    <img src="{{ image.url }}" class="card-img-top" alt="{{ image.name }}">
+                    <h5 class="card-title"><b>Nom :</b> {{ image.name }}</h5>
+                    <p class="card-text">
+                        <b>URL :</b> <a href="{{ image.url }}" target="_blank">{{ image.url }}</a><br>
+                        <b>Fournisseur :</b> {{ image.supplier_name }}<br>
+                        <b>Dimensions : </b> {{ image.width }} x {{ image.height }}
+                    </p>
+                </div>
+            </div>
+        </div>
+        {% endfor %}
+</div>
+
+
+{% endblock %}

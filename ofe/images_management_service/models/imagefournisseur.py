@@ -14,7 +14,7 @@ class ImageFournisseur(models.Model):
     supplier_name = models.CharField(max_length=50)
     width = models.CharField(max_length=10, default='undefined')
     height = models.CharField(max_length=10, default='undefined')
-    image_package = models.ForeignKey(ImageImport, null=True, on_delete=models.SET_NULL)
+    image_import = models.ForeignKey(ImageImport, null=True, on_delete=models.SET_NULL)
 
     def __str__(self):
         return f'{self.name}'

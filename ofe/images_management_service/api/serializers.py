@@ -13,4 +13,4 @@ class ImageImportSerializer(ModelSerializer):
 
     class Meta:
         model = ImageImport
-        fields = ['name']
+        fields = ['name','creation_date','status']

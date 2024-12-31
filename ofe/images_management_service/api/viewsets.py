@@ -18,5 +18,7 @@ class ImageImportViewSet(ModelViewSet):
     """
     ViewSet pour gérer les opérations CRUD de la table ImageImport.
     """
+    # image_import = ImageImport.objects.get(id=1)
+    # testt = image_import.images.all()
     queryset = ImageImport.objects.all()
     serializer_class = ImageImportSerializer

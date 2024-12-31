@@ -1,12 +1,13 @@
 from django.shortcuts import render
 from ui_service.api_config import API_ENDPOINTS
 import requests
-
+from django.urls import resolve
 
 # Create your views here.
 
 def index(request):
-    return render(request, 'index.html')
+    current_url = resolve(request.path_info).url_name  # Nom de l'URL actuelle
+    return render(request, 'index.html', {'current_path': current_url})
 
 def old_index(request):
     return render(request, 'bootstrap-templates/old-index.html')
@@ -53,17 +54,24 @@ def utilities_other(request):
 
 # Photothèque
 def phototheque_refresh(request):
-    return render(request, 'phototheque/phototheque-refresh.html')
+    current_url = resolve(request.path_info).url_name  # Nom de l'URL actuelle
+    return render(request, 'phototheque/phototheque-refresh.html', {'current_path': current_url})
 
 def phototheque_history(request):
-    return render(request, 'phototheque/phototheque-history.html')
+    current_url = resolve(request.path_info).url_name  # Nom de l'URL actuelle
+    return render(request, 'phototheque/phototheque-history.html', {'current_path': current_url})
 
 def phototheque_admin(request):
-    return render(request, 'phototheque/phototheque-admin.html')
+    current_url = resolve(request.path_info).url_name  # Nom de l'URL actuelle
+    return render(request, 'phototheque/phototheque-admin.html', {'current_path': current_url})
 
 
 # Visuels fournisseur
 def visuels_fournisseur_import(request):
+    current_url = resolve(request.path_info).url_name  # Nom de l'URL actuelle
+    return render(request, 'visuels-fournisseur/visuels-fournisseur-import.html', {'current_path': current_url})
+
+def visuels_fournisseur_import_admin(request):
     """
     Vue pour afficher la liste des images packages via l'API.
     """
@@ -72,7 +80,8 @@ def visuels_fournisseur_import(request):
         imports = response.json()  # Les données renvoyées par l'API
     else:
         imports = []  # Par défaut, liste vide en cas d'erreur
-    return render(request, 'visuels-fournisseur/visuels-fournisseur-import.html', {'imports': imports})
+    current_url = resolve(request.path_info).url_name  # Nom de l'URL actuelle
+    return render(request, 'visuels-fournisseur/visuels-fournisseur-import-admin.html', {'imports': imports, 'current_path': current_url})
 
 def visuels_fournisseur_associate(request):
     """
@@ -83,7 +92,9 @@ def visuels_fournisseur_associate(request):
         images = response.json()  # Les données renvoyées par l'API
     else:
         images = []  # Par défaut, liste vide en cas d'erreur
-    return render(request, 'visuels-fournisseur/visuels-fournisseur-associate.html', {'images': images})
+    current_url = resolve(request.path_info).url_name  # Nom de l'URL actuelle
+    return render(request, 'visuels-fournisseur/visuels-fournisseur-associate.html', {'images': images,'current_path': current_url})
 
 def visuels_fournisseur_transform(request):
-    return render(request, 'visuels-fournisseur/visuels-fournisseur-transform.html')
+    current_url = resolve(request.path_info).url_name  # Nom de l'URL actuelle
+    return render(request, 'visuels-fournisseur/visuels-fournisseur-transform.html', {'current_path': current_url})

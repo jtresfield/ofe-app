@@ -60,6 +60,7 @@ urlpatterns = [
     
     # Visuels fournisseur
     path('visuels-fournisseur/import/', views.visuels_fournisseur_import, name='visuels-fournisseur-import'),
+    path('visuels-fournisseur/import-admin/', views.visuels_fournisseur_import_admin, name='visuels-fournisseur-import-admin'),
     path('visuels-fournisseur/associate/', views.visuels_fournisseur_associate, name='visuels-fournisseur-associate'),
     path('visuels-fournisseur/transform/', views.visuels_fournisseur_transform, name='visuels-fournisseur-transform'),
 ]

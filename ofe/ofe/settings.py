@@ -43,6 +43,7 @@ INSTALLED_APPS = [
     'data_transformation_service',
     'data_importation_service',
     'images_management_service',
+    'ui_service',
 ]
 
 MIDDLEWARE = [
