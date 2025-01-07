@@ -19,7 +19,7 @@ from django.contrib import admin
 from django.urls import include, path
 from django.conf.urls.static import static
 from ui_service import views
-from images_management_service.api.viewsets import ImageFournisseurViewSet, ImageImportViewSet
+from images_management_service.api.viewsets import ImageFournisseurViewSet, ImageImportViewSet, ImageConvertViewSet
 
 from rest_framework.routers import DefaultRouter
 
@@ -27,6 +27,7 @@ from rest_framework.routers import DefaultRouter
 router = DefaultRouter()
 router.register(r'api/image-fournisseur', ImageFournisseurViewSet, basename='imagefournisseur')
 router.register(r'api/image-import', ImageImportViewSet, basename='imageimport')
+router.register(r'api/image-convert', ImageConvertViewSet, basename='imageconvert')
 
 
 urlpatterns = [

@@ -22,3 +22,17 @@ class ImageImportViewSet(ModelViewSet):
     # testt = image_import.images.all()
     queryset = ImageImport.objects.all()
     serializer_class = ImageImportSerializer
+
+class ImageConvertViewSet(ModelViewSet):
+    """
+    ViewSet pour convertir des fichiers EPS en JPG.
+    """
+    queryset = ImageFournisseur.objects.all()
+    serializer_class = ImageFournisseurSerializer
+
+    def perform_create(self, serializer):
+        instance = serializer.save()
+        if instance.url.name.endswith('.eps'):
+            instance.convert_eps_to_jpg()
+            # Sauvegarder après conversion
+            instance.save()
