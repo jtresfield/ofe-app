@@ -1,0 +1,1095 @@
+2025-01-14 12:27:05,521 - INFO - 403 codes produits chargés depuis le fichier Excel.
+2025-01-14 12:27:05,525 - INFO - Recherche des fichiers pour le code produit : 100008
+2025-01-14 12:27:09,253 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\Impression\100008_a.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\100008_a.eps
+2025-01-14 12:27:10,401 - INFO - Recherche des fichiers pour le code produit : 100011
+2025-01-14 12:27:13,069 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\Classement_archivage\100011.02.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\100011.02.eps
+2025-01-14 12:27:15,172 - INFO - Recherche des fichiers pour le code produit : 10001102
+2025-01-14 12:27:19,890 - WARNING - Aucun fichier trouvé pour le code produit : 10001102
+2025-01-14 12:27:19,891 - INFO - Recherche des fichiers pour le code produit : 100060
+2025-01-14 12:27:23,825 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\Impression\100060.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\100060.eps
+2025-01-14 12:27:25,271 - INFO - Recherche des fichiers pour le code produit : 100248
+2025-01-14 12:27:29,133 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\Impression\100248_a.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\100248_a.eps
+2025-01-14 12:27:29,161 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\Impression\100248_b.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\100248_b.eps
+2025-01-14 12:27:30,260 - INFO - Recherche des fichiers pour le code produit : 100249
+2025-01-14 12:27:33,816 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\Impression\100249.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\100249.eps
+2025-01-14 12:27:34,933 - INFO - Recherche des fichiers pour le code produit : 100454
+2025-01-14 12:27:38,584 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\Impression\100454.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\100454.eps
+2025-01-14 12:27:39,738 - INFO - Recherche des fichiers pour le code produit : 100462
+2025-01-14 12:27:43,802 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\Impression\100462.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\100462.eps
+2025-01-14 12:27:43,829 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\Impression\100462_ens.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\100462_ens.eps
+2025-01-14 12:27:45,237 - INFO - Recherche des fichiers pour le code produit : 100531
+2025-01-14 12:27:48,793 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\Impression\100531.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\100531.eps
+2025-01-14 12:27:49,891 - INFO - Recherche des fichiers pour le code produit : 100532
+2025-01-14 12:27:53,784 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\Impression\100532.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\100532.eps
+2025-01-14 12:27:54,914 - INFO - Recherche des fichiers pour le code produit : 100556
+2025-01-14 12:27:57,566 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\Classement_archivage\100556.05.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\100556.05.eps
+2025-01-14 12:27:57,595 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\Classement_archivage\100556.05_a.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\100556.05_a.eps
+2025-01-14 12:27:57,618 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\Classement_archivage\100556.06.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\100556.06.eps
+2025-01-14 12:27:57,646 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\Classement_archivage\100556.06_b.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\100556.06_b.eps
+2025-01-14 12:27:57,670 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\Classement_archivage\100556.11.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\100556.11.eps
+2025-01-14 12:27:57,694 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\Classement_archivage\100556.11_b.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\100556.11_b.eps
+2025-01-14 12:27:57,718 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\Classement_archivage\100556.15.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\100556.15.eps
+2025-01-14 12:27:57,742 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\Classement_archivage\100556.15_b.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\100556.15_b.eps
+2025-01-14 12:27:57,766 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\Classement_archivage\100556.17.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\100556.17.eps
+2025-01-14 12:27:57,790 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\Classement_archivage\100556.19.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\100556.19.eps
+2025-01-14 12:27:57,812 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\Classement_archivage\100556.19_loupe1.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\100556.19_loupe1.eps
+2025-01-14 12:27:57,835 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\Classement_archivage\100556.22.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\100556.22.eps
+2025-01-14 12:27:57,862 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\Classement_archivage\100556_ens.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\100556_ens.eps
+2025-01-14 12:28:00,264 - INFO - Recherche des fichiers pour le code produit : 10055605
+2025-01-14 12:28:05,209 - WARNING - Aucun fichier trouvé pour le code produit : 10055605
+2025-01-14 12:28:05,209 - INFO - Recherche des fichiers pour le code produit : 10055606
+2025-01-14 12:28:09,882 - WARNING - Aucun fichier trouvé pour le code produit : 10055606
+2025-01-14 12:28:09,882 - INFO - Recherche des fichiers pour le code produit : 10055611
+2025-01-14 12:28:14,552 - WARNING - Aucun fichier trouvé pour le code produit : 10055611
+2025-01-14 12:28:14,552 - INFO - Recherche des fichiers pour le code produit : 10055615
+2025-01-14 12:28:19,286 - WARNING - Aucun fichier trouvé pour le code produit : 10055615
+2025-01-14 12:28:19,287 - INFO - Recherche des fichiers pour le code produit : 10055617
+2025-01-14 12:28:24,522 - WARNING - Aucun fichier trouvé pour le code produit : 10055617
+2025-01-14 12:28:24,523 - INFO - Recherche des fichiers pour le code produit : 10055619
+2025-01-14 12:28:30,106 - WARNING - Aucun fichier trouvé pour le code produit : 10055619
+2025-01-14 12:28:30,107 - INFO - Recherche des fichiers pour le code produit : 10055622
+2025-01-14 12:28:35,408 - WARNING - Aucun fichier trouvé pour le code produit : 10055622
+2025-01-14 12:28:35,408 - INFO - Recherche des fichiers pour le code produit : 100596
+2025-01-14 12:28:38,453 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\Classement_archivage\100596.02_loupe1.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\100596.02_loupe1.eps
+2025-01-14 12:28:38,477 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\Classement_archivage\100596.06.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\100596.06.eps
+2025-01-14 12:28:38,507 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\Classement_archivage\100596_loupe1.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\100596_loupe1.eps
+2025-01-14 12:28:38,528 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\Classement_archivage\100596_loupe2.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\100596_loupe2.eps
+2025-01-14 12:28:40,807 - INFO - Recherche des fichiers pour le code produit : 10059606
+2025-01-14 12:28:45,578 - WARNING - Aucun fichier trouvé pour le code produit : 10059606
+2025-01-14 12:28:45,579 - INFO - Recherche des fichiers pour le code produit : 100642
+2025-01-14 12:28:48,568 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\Classement_archivage\100642.17.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\100642.17.eps
+2025-01-14 12:28:48,597 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\Classement_archivage\100642_643.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\100642_643.eps
+2025-01-14 12:28:48,621 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\Classement_archivage\100642_loupe.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\100642_loupe.eps
+2025-01-14 12:28:50,683 - INFO - Recherche des fichiers pour le code produit : 10064217
+2025-01-14 12:28:56,821 - WARNING - Aucun fichier trouvé pour le code produit : 10064217
+2025-01-14 12:28:56,822 - INFO - Recherche des fichiers pour le code produit : 100643
+2025-01-14 12:29:00,194 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\Classement_archivage\100643.17.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\100643.17.eps
+2025-01-14 12:29:02,376 - INFO - Recherche des fichiers pour le code produit : 10064317
+2025-01-14 12:29:07,194 - WARNING - Aucun fichier trouvé pour le code produit : 10064317
+2025-01-14 12:29:07,195 - INFO - Recherche des fichiers pour le code produit : 100714
+2025-01-14 12:29:10,163 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\Classement_archivage\100714.06.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\100714.06.eps
+2025-01-14 12:29:10,185 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\Classement_archivage\100714.17.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\100714.17.eps
+2025-01-14 12:29:10,209 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\Classement_archivage\100714.19.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\100714.19.eps
+2025-01-14 12:29:10,236 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\Classement_archivage\100714_ens.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\100714_ens.eps
+2025-01-14 12:29:10,260 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\Classement_archivage\100714_Zoom.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\100714_Zoom.eps
+2025-01-14 12:29:11,956 - INFO - Recherche des fichiers pour le code produit : 10071406
+2025-01-14 12:29:17,149 - WARNING - Aucun fichier trouvé pour le code produit : 10071406
+2025-01-14 12:29:17,149 - INFO - Recherche des fichiers pour le code produit : 10071417
+2025-01-14 12:29:22,284 - WARNING - Aucun fichier trouvé pour le code produit : 10071417
+2025-01-14 12:29:22,284 - INFO - Recherche des fichiers pour le code produit : 10071419
+2025-01-14 12:29:27,705 - WARNING - Aucun fichier trouvé pour le code produit : 10071419
+2025-01-14 12:29:27,705 - INFO - Recherche des fichiers pour le code produit : 100762
+2025-01-14 12:29:31,378 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\Impression\100762.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\100762.eps
+2025-01-14 12:29:32,523 - INFO - Recherche des fichiers pour le code produit : 100763
+2025-01-14 12:29:34,503 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\05_PHOTOS ACHETEES\Visus génériques EPI\shutterstock_100763614.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\shutterstock_100763614.eps
+2025-01-14 12:29:34,559 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\05_PHOTOS ACHETEES\Visus génériques EPI\shutterstock_100763614.jpg -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\shutterstock_100763614.jpg
+2025-01-14 12:29:36,663 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\Impression\100763.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\100763.eps
+2025-01-14 12:29:37,828 - INFO - Recherche des fichiers pour le code produit : 100789
+2025-01-14 12:29:42,196 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\Impression\100789.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\100789.eps
+2025-01-14 12:29:43,357 - INFO - Recherche des fichiers pour le code produit : 100792
+2025-01-14 12:29:48,767 - WARNING - Aucun fichier trouvé pour le code produit : 100792
+2025-01-14 12:29:48,767 - INFO - Recherche des fichiers pour le code produit : 100793
+2025-01-14 12:29:54,169 - WARNING - Aucun fichier trouvé pour le code produit : 100793
+2025-01-14 12:29:54,169 - INFO - Recherche des fichiers pour le code produit : 100898
+2025-01-14 12:29:57,580 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\Classement_archivage\100898.06.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\100898.06.eps
+2025-01-14 12:29:57,609 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\Classement_archivage\100898.17.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\100898.17.eps
+2025-01-14 12:29:57,641 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\Classement_archivage\100898.19.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\100898.19.eps
+2025-01-14 12:29:57,671 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\Classement_archivage\100898.22.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\100898.22.eps
+2025-01-14 12:29:57,697 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\Classement_archivage\100898.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\100898.eps
+2025-01-14 12:30:00,143 - INFO - Recherche des fichiers pour le code produit : 10089806
+2025-01-14 12:30:05,590 - WARNING - Aucun fichier trouvé pour le code produit : 10089806
+2025-01-14 12:30:05,591 - INFO - Recherche des fichiers pour le code produit : 10089817
+2025-01-14 12:30:10,371 - WARNING - Aucun fichier trouvé pour le code produit : 10089817
+2025-01-14 12:30:10,372 - INFO - Recherche des fichiers pour le code produit : 10089819
+2025-01-14 12:30:15,912 - WARNING - Aucun fichier trouvé pour le code produit : 10089819
+2025-01-14 12:30:15,912 - INFO - Recherche des fichiers pour le code produit : 10089822
+2025-01-14 12:30:20,832 - WARNING - Aucun fichier trouvé pour le code produit : 10089822
+2025-01-14 12:30:20,833 - INFO - Recherche des fichiers pour le code produit : 100899
+2025-01-14 12:30:24,071 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\Classement_archivage\100899.02.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\100899.02.eps
+2025-01-14 12:30:24,104 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\Classement_archivage\100899.02_a.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\100899.02_a.eps
+2025-01-14 12:30:24,139 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\Classement_archivage\100899.02_b.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\100899.02_b.eps
+2025-01-14 12:30:24,176 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\Classement_archivage\100899.02_c.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\100899.02_c.eps
+2025-01-14 12:30:26,323 - INFO - Recherche des fichiers pour le code produit : 10089902
+2025-01-14 12:30:31,487 - WARNING - Aucun fichier trouvé pour le code produit : 10089902
+2025-01-14 12:30:31,488 - INFO - Recherche des fichiers pour le code produit : 101217
+2025-01-14 12:30:34,454 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\Classement_archivage\101217_b.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\101217_b.eps
+2025-01-14 12:30:36,728 - INFO - Recherche des fichiers pour le code produit : 101218
+2025-01-14 12:30:39,534 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\Classement_archivage\101218_b.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\101218_b.eps
+2025-01-14 12:30:41,656 - INFO - Recherche des fichiers pour le code produit : 101260
+2025-01-14 12:30:56,133 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\Mobilier\101260_a.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\101260_a.eps
+2025-01-14 12:30:56,403 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\Mobilier\101260_amb.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\101260_amb.eps
+2025-01-14 12:30:59,863 - INFO - Recherche des fichiers pour le code produit : 101380
+2025-01-14 12:31:09,814 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\Impression\101380.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\101380.eps
+2025-01-14 12:31:11,086 - INFO - Recherche des fichiers pour le code produit : 101465
+2025-01-14 12:31:15,893 - WARNING - Aucun fichier trouvé pour le code produit : 101465
+2025-01-14 12:31:15,893 - INFO - Recherche des fichiers pour le code produit : 101466
+2025-01-14 12:31:19,627 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\Impression\101466.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\101466.eps
+2025-01-14 12:31:21,044 - INFO - Recherche des fichiers pour le code produit : 101467
+2025-01-14 12:31:25,068 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\Impression\101467.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\101467.eps
+2025-01-14 12:31:26,259 - INFO - Recherche des fichiers pour le code produit : 101492
+2025-01-14 12:31:30,443 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\Papier\101492.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\101492.eps
+2025-01-14 12:31:31,078 - INFO - Recherche des fichiers pour le code produit : 101614
+2025-01-14 12:31:36,252 - WARNING - Aucun fichier trouvé pour le code produit : 101614
+2025-01-14 12:31:36,252 - INFO - Recherche des fichiers pour le code produit : 102081
+2025-01-14 12:31:39,526 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\Enveloppes_expedition\102081_82.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\102081_82.eps
+2025-01-14 12:31:41,385 - INFO - Recherche des fichiers pour le code produit : 102082
+2025-01-14 12:31:46,177 - WARNING - Aucun fichier trouvé pour le code produit : 102082
+2025-01-14 12:31:46,177 - INFO - Recherche des fichiers pour le code produit : 102083
+2025-01-14 12:31:49,522 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\Enveloppes_expedition\102083.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\102083.eps
+2025-01-14 12:31:51,441 - INFO - Recherche des fichiers pour le code produit : 102276
+2025-01-14 12:31:56,294 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\Papier\102276.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\102276.eps
+2025-01-14 12:31:56,963 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\Visus Périmés\102276.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\102276.eps
+2025-01-14 12:31:56,970 - INFO - Recherche des fichiers pour le code produit : 102579
+2025-01-14 12:32:01,235 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\Papier\102579_a.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\102579_a.eps
+2025-01-14 12:32:01,267 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\Papier\102579_b.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\102579_b.eps
+2025-01-14 12:32:01,912 - INFO - Recherche des fichiers pour le code produit : 102586
+2025-01-14 12:32:04,944 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\Enveloppes_expedition\102586_a.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\102586_a.eps
+2025-01-14 12:32:06,830 - INFO - Recherche des fichiers pour le code produit : 102609
+2025-01-14 12:32:10,345 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\Etiquettes_signaletique\102609.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\102609.eps
+2025-01-14 12:32:10,371 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\Etiquettes_signaletique\102609_a.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\102609_a.eps
+2025-01-14 12:32:10,400 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\Etiquettes_signaletique\102609_amb1.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\102609_amb1.eps
+2025-01-14 12:32:12,224 - INFO - Recherche des fichiers pour le code produit : 102612
+2025-01-14 12:32:15,649 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\Etiquettes_signaletique\102612.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\102612.eps
+2025-01-14 12:32:15,675 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\Etiquettes_signaletique\102612_a.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\102612_a.eps
+2025-01-14 12:32:15,701 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\Etiquettes_signaletique\102612_amb1.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\102612_amb1.eps
+2025-01-14 12:32:15,730 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\Etiquettes_signaletique\102612_amb2.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\102612_amb2.eps
+2025-01-14 12:32:17,246 - INFO - Recherche des fichiers pour le code produit : 102616
+2025-01-14 12:32:19,579 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\09_LPC\102616.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\102616.eps
+2025-01-14 12:32:21,071 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\Etiquettes_signaletique\102616.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\102616.eps
+2025-01-14 12:32:21,109 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\Etiquettes_signaletique\102616_a.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\102616_a.eps
+2025-01-14 12:32:21,138 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\Etiquettes_signaletique\102616_amb1.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\102616_amb1.eps
+2025-01-14 12:32:22,613 - INFO - Recherche des fichiers pour le code produit : 102619
+2025-01-14 12:32:24,617 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\09_LPC\102619.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\102619.eps
+2025-01-14 12:32:26,442 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\Etiquettes_signaletique\102619.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\102619.eps
+2025-01-14 12:32:26,466 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\Etiquettes_signaletique\102619_a.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\102619_a.eps
+2025-01-14 12:32:27,952 - INFO - Recherche des fichiers pour le code produit : 102620
+2025-01-14 12:32:30,264 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\09_LPC\102620.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\102620.eps
+2025-01-14 12:32:32,071 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\Etiquettes_signaletique\102620.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\102620.eps
+2025-01-14 12:32:32,096 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\Etiquettes_signaletique\102620_a.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\102620_a.eps
+2025-01-14 12:32:33,568 - INFO - Recherche des fichiers pour le code produit : 102621
+2025-01-14 12:32:35,654 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\09_LPC\102621.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\102621.eps
+2025-01-14 12:32:37,139 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\Etiquettes_signaletique\102621.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\102621.eps
+2025-01-14 12:32:37,174 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\Etiquettes_signaletique\102621_a.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\102621_a.eps
+2025-01-14 12:32:38,638 - INFO - Recherche des fichiers pour le code produit : 102629
+2025-01-14 12:32:42,119 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\Etiquettes_signaletique\102629.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\102629.eps
+2025-01-14 12:32:42,147 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\Etiquettes_signaletique\102629_a.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\102629_a.eps
+2025-01-14 12:32:42,176 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\Etiquettes_signaletique\102629_amb1.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\102629_amb1.eps
+2025-01-14 12:32:42,203 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\Etiquettes_signaletique\102629_amb2.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\102629_amb2.eps
+2025-01-14 12:32:43,706 - INFO - Recherche des fichiers pour le code produit : 102781
+2025-01-14 12:32:47,752 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\Mobilier\102781.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\102781.eps
+2025-01-14 12:32:47,782 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\Mobilier\102781_croquis.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\102781_croquis.eps
+2025-01-14 12:32:48,670 - INFO - Recherche des fichiers pour le code produit : 102782
+2025-01-14 12:32:52,744 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\Mobilier\102782.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\102782.eps
+2025-01-14 12:32:53,594 - INFO - Recherche des fichiers pour le code produit : 102822
+2025-01-14 12:32:58,036 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\Mobilier\102822_120197.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\102822_120197.eps
+2025-01-14 12:32:58,085 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\Mobilier\102822_croquis.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\102822_croquis.eps
+2025-01-14 12:32:58,982 - INFO - Recherche des fichiers pour le code produit : 102823
+2025-01-14 12:33:03,411 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\Mobilier\102823_120200.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\102823_120200.eps
+2025-01-14 12:33:04,268 - INFO - Recherche des fichiers pour le code produit : 102827
+2025-01-14 12:33:08,272 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\Hygiene\102827.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\102827.eps
+2025-01-14 12:33:08,299 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\Hygiene\102827_a.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\102827_a.eps
+2025-01-14 12:33:10,068 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\Visus Périmés\102827_b.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\102827_b.eps
+2025-01-14 12:33:10,076 - INFO - Recherche des fichiers pour le code produit : 102898
+2025-01-14 12:33:13,567 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\Hygiene\102898.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\102898.eps
+2025-01-14 12:33:13,618 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\Hygiene\102898_a.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\102898_a.eps
+2025-01-14 12:33:13,664 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\Hygiene\102898_b.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\102898_b.eps
+2025-01-14 12:33:13,710 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\Hygiene\102898_c.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\102898_c.eps
+2025-01-14 12:33:15,151 - INFO - Recherche des fichiers pour le code produit : 104236
+2025-01-14 12:33:19,457 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\Papier\104236.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\104236.eps
+2025-01-14 12:33:19,486 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\Papier\104236_a.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\104236_a.eps
+2025-01-14 12:33:20,119 - INFO - Recherche des fichiers pour le code produit : 104237
+2025-01-14 12:33:25,912 - WARNING - Aucun fichier trouvé pour le code produit : 104237
+2025-01-14 12:33:25,913 - INFO - Recherche des fichiers pour le code produit : 105326
+2025-01-14 12:33:30,360 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\Mobilier\105326.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\105326.eps
+2025-01-14 12:33:30,394 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\Mobilier\105326_325_a.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\105326_325_a.eps
+2025-01-14 12:33:30,423 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\Mobilier\105326_325_b.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\105326_325_b.eps
+2025-01-14 12:33:31,364 - INFO - Recherche des fichiers pour le code produit : 105328
+2025-01-14 12:33:36,072 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\Mobilier\105328.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\105328.eps
+2025-01-14 12:33:36,947 - INFO - Recherche des fichiers pour le code produit : 105329
+2025-01-14 12:33:40,966 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\Mobilier\105329.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\105329.eps
+2025-01-14 12:33:41,818 - INFO - Recherche des fichiers pour le code produit : 105336
+2025-01-14 12:33:45,860 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\Mobilier\105336.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\105336.eps
+2025-01-14 12:33:45,896 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\Mobilier\105336_ferme.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\105336_ferme.eps
+2025-01-14 12:33:45,929 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\Mobilier\105336_ouvert.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\105336_ouvert.eps
+2025-01-14 12:33:46,789 - INFO - Recherche des fichiers pour le code produit : 105379
+2025-01-14 12:33:49,896 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\Classement_archivage\105379.06_a.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\105379.06_a.eps
+2025-01-14 12:33:49,922 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\Classement_archivage\105379.06_b.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\105379.06_b.eps
+2025-01-14 12:33:49,952 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\Classement_archivage\105379.06_c.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\105379.06_c.eps
+2025-01-14 12:33:49,980 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\Classement_archivage\105379.06_d.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\105379.06_d.eps
+2025-01-14 12:33:50,009 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\Classement_archivage\105379.15.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\105379.15.eps
+2025-01-14 12:33:50,036 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\Classement_archivage\105379.15_a.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\105379.15_a.eps
+2025-01-14 12:33:50,062 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\Classement_archivage\105379.18_a.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\105379.18_a.eps
+2025-01-14 12:33:50,090 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\Classement_archivage\105379.18_b.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\105379.18_b.eps
+2025-01-14 12:33:50,116 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\Classement_archivage\105379.20_a.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\105379.20_a.eps
+2025-01-14 12:33:50,142 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\Classement_archivage\105379.20_b.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\105379.20_b.eps
+2025-01-14 12:33:50,170 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\Classement_archivage\105379.20_c.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\105379.20_c.eps
+2025-01-14 12:33:50,197 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\Classement_archivage\105379.20_d.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\105379.20_d.eps
+2025-01-14 12:33:50,222 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\Classement_archivage\105379.23_a.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\105379.23_a.eps
+2025-01-14 12:33:50,249 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\Classement_archivage\105379.23_b.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\105379.23_b.eps
+2025-01-14 12:33:50,278 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\Classement_archivage\105379.23_c.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\105379.23_c.eps
+2025-01-14 12:33:50,306 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\Classement_archivage\105379.23_d.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\105379.23_d.eps
+2025-01-14 12:33:50,332 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\Classement_archivage\105379.25_a.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\105379.25_a.eps
+2025-01-14 12:33:50,360 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\Classement_archivage\105379.25_b.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\105379.25_b.eps
+2025-01-14 12:33:50,388 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\Classement_archivage\105379.25_c.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\105379.25_c.eps
+2025-01-14 12:33:50,411 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\Classement_archivage\105379.25_d.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\105379.25_d.eps
+2025-01-14 12:33:50,434 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\Classement_archivage\105379.29_a.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\105379.29_a.eps
+2025-01-14 12:33:50,460 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\Classement_archivage\105379.29_b.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\105379.29_b.eps
+2025-01-14 12:33:50,487 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\Classement_archivage\105379.29_c.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\105379.29_c.eps
+2025-01-14 12:33:50,514 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\Classement_archivage\105379.29_d.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\105379.29_d.eps
+2025-01-14 12:33:50,545 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\Classement_archivage\105379.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\105379.eps
+2025-01-14 12:33:50,568 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\Classement_archivage\105379_ens.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\105379_ens.eps
+2025-01-14 12:33:52,805 - INFO - Recherche des fichiers pour le code produit : 10537906
+2025-01-14 12:33:57,917 - WARNING - Aucun fichier trouvé pour le code produit : 10537906
+2025-01-14 12:33:57,918 - INFO - Recherche des fichiers pour le code produit : 10537915
+2025-01-14 12:34:02,834 - WARNING - Aucun fichier trouvé pour le code produit : 10537915
+2025-01-14 12:34:02,834 - INFO - Recherche des fichiers pour le code produit : 10537920
+2025-01-14 12:34:08,100 - WARNING - Aucun fichier trouvé pour le code produit : 10537920
+2025-01-14 12:34:08,100 - INFO - Recherche des fichiers pour le code produit : 10537923
+2025-01-14 12:34:13,093 - WARNING - Aucun fichier trouvé pour le code produit : 10537923
+2025-01-14 12:34:13,093 - INFO - Recherche des fichiers pour le code produit : 10537925
+2025-01-14 12:34:18,391 - WARNING - Aucun fichier trouvé pour le code produit : 10537925
+2025-01-14 12:34:18,391 - INFO - Recherche des fichiers pour le code produit : 10537929
+2025-01-14 12:34:23,349 - WARNING - Aucun fichier trouvé pour le code produit : 10537929
+2025-01-14 12:34:23,349 - INFO - Recherche des fichiers pour le code produit : 105486
+2025-01-14 12:34:26,100 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\Classement_archivage\105486.02.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\105486.02.eps
+2025-01-14 12:34:26,127 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\Classement_archivage\105486.02_a.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\105486.02_a.eps
+2025-01-14 12:34:28,332 - INFO - Recherche des fichiers pour le code produit : 10548602
+2025-01-14 12:34:33,932 - WARNING - Aucun fichier trouvé pour le code produit : 10548602
+2025-01-14 12:34:33,933 - INFO - Recherche des fichiers pour le code produit : 105487
+2025-01-14 12:34:37,107 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\Classement_archivage\105487.02.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\105487.02.eps
+2025-01-14 12:34:37,135 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\Classement_archivage\105487.02_b.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\105487.02_b.eps
+2025-01-14 12:34:37,164 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\Classement_archivage\105487_sit1.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\105487_sit1.eps
+2025-01-14 12:34:39,343 - INFO - Recherche des fichiers pour le code produit : 10548702
+2025-01-14 12:34:44,254 - WARNING - Aucun fichier trouvé pour le code produit : 10548702
+2025-01-14 12:34:44,255 - INFO - Recherche des fichiers pour le code produit : 105503
+2025-01-14 12:34:49,617 - WARNING - Aucun fichier trouvé pour le code produit : 105503
+2025-01-14 12:34:49,618 - INFO - Recherche des fichiers pour le code produit : 105522
+2025-01-14 12:34:52,309 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\Classement_archivage\105522.06_a.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\105522.06_a.eps
+2025-01-14 12:34:52,338 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\Classement_archivage\105522.06_b.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\105522.06_b.eps
+2025-01-14 12:34:52,595 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\Classement_archivage\105522.06_c.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\105522.06_c.eps
+2025-01-14 12:34:52,626 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\Classement_archivage\105522.08_a.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\105522.08_a.eps
+2025-01-14 12:34:52,656 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\Classement_archivage\105522.08_b.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\105522.08_b.eps
+2025-01-14 12:34:52,687 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\Classement_archivage\105522.09.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\105522.09.eps
+2025-01-14 12:34:52,717 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\Classement_archivage\105522.11.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\105522.11.eps
+2025-01-14 12:34:52,747 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\Classement_archivage\105522.11_a.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\105522.11_a.eps
+2025-01-14 12:34:52,780 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\Classement_archivage\105522.11_b.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\105522.11_b.eps
+2025-01-14 12:34:52,810 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\Classement_archivage\105522.14.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\105522.14.eps
+2025-01-14 12:34:52,841 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\Classement_archivage\105522.14_a.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\105522.14_a.eps
+2025-01-14 12:34:52,873 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\Classement_archivage\105522.14_b.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\105522.14_b.eps
+2025-01-14 12:34:52,902 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\Classement_archivage\105522.15.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\105522.15.eps
+2025-01-14 12:34:52,931 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\Classement_archivage\105522.15_a.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\105522.15_a.eps
+2025-01-14 12:34:52,962 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\Classement_archivage\105522.15_b.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\105522.15_b.eps
+2025-01-14 12:34:52,994 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\Classement_archivage\105522.17.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\105522.17.eps
+2025-01-14 12:34:53,025 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\Classement_archivage\105522.17_a.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\105522.17_a.eps
+2025-01-14 12:34:53,053 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\Classement_archivage\105522.17_b.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\105522.17_b.eps
+2025-01-14 12:34:53,083 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\Classement_archivage\105522.19.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\105522.19.eps
+2025-01-14 12:34:53,122 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\Classement_archivage\105522.19_a.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\105522.19_a.eps
+2025-01-14 12:34:53,152 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\Classement_archivage\105522.19_b.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\105522.19_b.eps
+2025-01-14 12:34:53,186 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\Classement_archivage\105522.23.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\105522.23.eps
+2025-01-14 12:34:53,215 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\Classement_archivage\105522.24.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\105522.24.eps
+2025-01-14 12:34:53,246 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\Classement_archivage\105522.24_a.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\105522.24_a.eps
+2025-01-14 12:34:53,275 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\Classement_archivage\105522.24_b.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\105522.24_b.eps
+2025-01-14 12:34:53,301 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\Classement_archivage\105522_ens.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\105522_ens.eps
+2025-01-14 12:34:53,332 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\Classement_archivage\105522_sit1.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\105522_sit1.eps
+2025-01-14 12:34:53,364 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\Classement_archivage\105522_sit2.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\105522_sit2.eps
+2025-01-14 12:34:55,484 - INFO - Recherche des fichiers pour le code produit : 10552206
+2025-01-14 12:35:00,345 - WARNING - Aucun fichier trouvé pour le code produit : 10552206
+2025-01-14 12:35:00,345 - INFO - Recherche des fichiers pour le code produit : 10552208
+2025-01-14 12:35:05,268 - WARNING - Aucun fichier trouvé pour le code produit : 10552208
+2025-01-14 12:35:05,269 - INFO - Recherche des fichiers pour le code produit : 10552211
+2025-01-14 12:35:10,382 - WARNING - Aucun fichier trouvé pour le code produit : 10552211
+2025-01-14 12:35:10,382 - INFO - Recherche des fichiers pour le code produit : 10552214
+2025-01-14 12:35:16,160 - WARNING - Aucun fichier trouvé pour le code produit : 10552214
+2025-01-14 12:35:16,160 - INFO - Recherche des fichiers pour le code produit : 10552215
+2025-01-14 12:35:21,293 - WARNING - Aucun fichier trouvé pour le code produit : 10552215
+2025-01-14 12:35:21,293 - INFO - Recherche des fichiers pour le code produit : 10552217
+2025-01-14 12:35:26,944 - WARNING - Aucun fichier trouvé pour le code produit : 10552217
+2025-01-14 12:35:26,944 - INFO - Recherche des fichiers pour le code produit : 10552219
+2025-01-14 12:35:32,027 - WARNING - Aucun fichier trouvé pour le code produit : 10552219
+2025-01-14 12:35:32,028 - INFO - Recherche des fichiers pour le code produit : 10552223
+2025-01-14 12:35:36,893 - WARNING - Aucun fichier trouvé pour le code produit : 10552223
+2025-01-14 12:35:36,894 - INFO - Recherche des fichiers pour le code produit : 105737
+2025-01-14 12:35:40,413 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\Hygiene\105737.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\105737.eps
+2025-01-14 12:35:42,091 - INFO - Recherche des fichiers pour le code produit : 106371
+2025-01-14 12:35:46,634 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\Papier\106371.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\106371.eps
+2025-01-14 12:35:46,662 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\Papier\106371_a.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\106371_a.eps
+2025-01-14 12:35:47,292 - INFO - Recherche des fichiers pour le code produit : 106591
+2025-01-14 12:35:50,871 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\Hygiene\106591.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\106591.eps
+2025-01-14 12:35:52,311 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\Visus Périmés\106591_a.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\106591_a.eps
+2025-01-14 12:35:52,318 - INFO - Recherche des fichiers pour le code produit : 106606
+2025-01-14 12:35:57,799 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\Services_generaux\106606_a.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\106606_a.eps
+2025-01-14 12:35:57,828 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\Services_generaux\106606_b.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\106606_b.eps
+2025-01-14 12:35:57,993 - INFO - Recherche des fichiers pour le code produit : 106937
+2025-01-14 12:36:01,847 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\Hygiene\106937.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\106937.eps
+2025-01-14 12:36:03,543 - INFO - Recherche des fichiers pour le code produit : 106940
+2025-01-14 12:36:07,744 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\Hygiene\106940.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\106940.eps
+2025-01-14 12:36:09,418 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\Visus Périmés\106940.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\106940.eps
+2025-01-14 12:36:09,426 - INFO - Recherche des fichiers pour le code produit : 106948
+2025-01-14 12:36:13,236 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\Hygiene\106948.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\106948.eps
+2025-01-14 12:36:14,592 - INFO - Recherche des fichiers pour le code produit : 106949
+2025-01-14 12:36:18,187 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\Hygiene\106949.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\106949.eps
+2025-01-14 12:36:19,525 - INFO - Recherche des fichiers pour le code produit : 106959
+2025-01-14 12:36:23,290 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\Hygiene\106959.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\106959.eps
+2025-01-14 12:36:24,657 - INFO - Recherche des fichiers pour le code produit : 106963
+2025-01-14 12:36:28,091 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\Hygiene\106963.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\106963.eps
+2025-01-14 12:36:29,451 - INFO - Recherche des fichiers pour le code produit : 106964
+2025-01-14 12:36:32,864 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\Hygiene\106964_a.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\106964_a.eps
+2025-01-14 12:36:32,896 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\Hygiene\106964_b.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\106964_b.eps
+2025-01-14 12:36:34,230 - INFO - Recherche des fichiers pour le code produit : 107055
+2025-01-14 12:36:37,222 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\Enveloppes_expedition\107055_056_058_loupe1.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\107055_056_058_loupe1.eps
+2025-01-14 12:36:37,251 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\Enveloppes_expedition\107055_056_058_loupe2.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\107055_056_058_loupe2.eps
+2025-01-14 12:36:37,279 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\Enveloppes_expedition\107055_056_058_loupe3.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\107055_056_058_loupe3.eps
+2025-01-14 12:36:37,306 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\Enveloppes_expedition\107055_a.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\107055_a.eps
+2025-01-14 12:36:37,334 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\Enveloppes_expedition\107055_b.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\107055_b.eps
+2025-01-14 12:36:37,364 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\Enveloppes_expedition\107055_sit1.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\107055_sit1.eps
+2025-01-14 12:36:39,165 - INFO - Recherche des fichiers pour le code produit : 107057
+2025-01-14 12:36:42,478 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\Enveloppes_expedition\107057.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\107057.eps
+2025-01-14 12:36:42,512 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\Enveloppes_expedition\107057_sit1.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\107057_sit1.eps
+2025-01-14 12:36:44,384 - INFO - Recherche des fichiers pour le code produit : 107058
+2025-01-14 12:36:47,398 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\Enveloppes_expedition\107058.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\107058.eps
+2025-01-14 12:36:47,430 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\Enveloppes_expedition\107058_sit1.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\107058_sit1.eps
+2025-01-14 12:36:49,242 - INFO - Recherche des fichiers pour le code produit : 107336
+2025-01-14 12:36:52,846 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\Impression\107336.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\107336.eps
+2025-01-14 12:36:53,174 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\Mobilier\107336.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\107336.eps
+2025-01-14 12:36:54,075 - INFO - Recherche des fichiers pour le code produit : 107471
+2025-01-14 12:36:57,802 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\Impression\107471.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\107471.eps
+2025-01-14 12:36:58,970 - INFO - Recherche des fichiers pour le code produit : 107472
+2025-01-14 12:37:02,666 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\Impression\107472.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\107472.eps
+2025-01-14 12:37:03,838 - INFO - Recherche des fichiers pour le code produit : 107473
+2025-01-14 12:37:07,807 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\Impression\107473.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\107473.eps
+2025-01-14 12:37:08,999 - INFO - Recherche des fichiers pour le code produit : 107474
+2025-01-14 12:37:12,771 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\Impression\107474.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\107474.eps
+2025-01-14 12:37:13,949 - INFO - Recherche des fichiers pour le code produit : 107475
+2025-01-14 12:37:18,026 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\Impression\107475.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\107475.eps
+2025-01-14 12:37:19,173 - INFO - Recherche des fichiers pour le code produit : 107476
+2025-01-14 12:37:22,842 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\Impression\107476.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\107476.eps
+2025-01-14 12:37:23,974 - INFO - Recherche des fichiers pour le code produit : 107477
+2025-01-14 12:37:27,625 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\Impression\107477.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\107477.eps
+2025-01-14 12:37:28,798 - INFO - Recherche des fichiers pour le code produit : 107478
+2025-01-14 12:37:33,111 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\Impression\107478.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\107478.eps
+2025-01-14 12:37:34,299 - INFO - Recherche des fichiers pour le code produit : 107483
+2025-01-14 12:37:37,999 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\Impression\107483.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\107483.eps
+2025-01-14 12:37:39,167 - INFO - Recherche des fichiers pour le code produit : 107484
+2025-01-14 12:37:42,929 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\Impression\107484.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\107484.eps
+2025-01-14 12:37:44,056 - INFO - Recherche des fichiers pour le code produit : 107507
+2025-01-14 12:37:47,703 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\Impression\107507.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\107507.eps
+2025-01-14 12:37:47,729 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\Impression\107507_a.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\107507_a.eps
+2025-01-14 12:37:48,908 - INFO - Recherche des fichiers pour le code produit : 107508
+2025-01-14 12:37:52,626 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\Impression\107508.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\107508.eps
+2025-01-14 12:37:52,652 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\Impression\107508_a.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\107508_a.eps
+2025-01-14 12:37:53,818 - INFO - Recherche des fichiers pour le code produit : 107677
+2025-01-14 12:37:55,191 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\05_PHOTOS ACHETEES\0000_ORIGINAUX\shutterstock_107677052.jpg -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\shutterstock_107677052.jpg
+2025-01-14 12:37:58,082 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\Papier\107677.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\107677.eps
+2025-01-14 12:37:59,020 - INFO - Recherche des fichiers pour le code produit : 107898
+2025-01-14 12:38:03,551 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\Papier\107898.06.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\107898.06.eps
+2025-01-14 12:38:03,585 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\Papier\107898.06_a.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\107898.06_a.eps
+2025-01-14 12:38:03,619 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\Papier\107898.15.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\107898.15.eps
+2025-01-14 12:38:03,650 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\Papier\107898.15_a.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\107898.15_a.eps
+2025-01-14 12:38:03,699 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\Papier\107898.18.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\107898.18.eps
+2025-01-14 12:38:03,730 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\Papier\107898.18_a.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\107898.18_a.eps
+2025-01-14 12:38:03,764 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\Papier\107898.22.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\107898.22.eps
+2025-01-14 12:38:03,798 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\Papier\107898.22_a.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\107898.22_a.eps
+2025-01-14 12:38:03,832 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\Papier\107898.25.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\107898.25.eps
+2025-01-14 12:38:03,864 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\Papier\107898.25_a.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\107898.25_a.eps
+2025-01-14 12:38:03,893 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\Papier\107898.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\107898.eps
+2025-01-14 12:38:04,806 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\Visu FIDUCIAL\Papier\Traite\107898.06.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\107898.06.eps
+2025-01-14 12:38:04,836 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\Visu FIDUCIAL\Papier\Traite\107898.15.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\107898.15.eps
+2025-01-14 12:38:04,865 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\Visu FIDUCIAL\Papier\Traite\107898.18.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\107898.18.eps
+2025-01-14 12:38:04,895 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\Visu FIDUCIAL\Papier\Traite\107898.22.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\107898.22.eps
+2025-01-14 12:38:04,923 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\Visu FIDUCIAL\Papier\Traite\107898.25 .eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\107898.25 .eps
+2025-01-14 12:38:04,985 - INFO - Recherche des fichiers pour le code produit : 10789806
+2025-01-14 12:38:10,049 - WARNING - Aucun fichier trouvé pour le code produit : 10789806
+2025-01-14 12:38:10,049 - INFO - Recherche des fichiers pour le code produit : 10789815
+2025-01-14 12:38:14,909 - WARNING - Aucun fichier trouvé pour le code produit : 10789815
+2025-01-14 12:38:14,910 - INFO - Recherche des fichiers pour le code produit : 10789818
+2025-01-14 12:38:19,720 - WARNING - Aucun fichier trouvé pour le code produit : 10789818
+2025-01-14 12:38:19,720 - INFO - Recherche des fichiers pour le code produit : 10789822
+2025-01-14 12:38:24,540 - WARNING - Aucun fichier trouvé pour le code produit : 10789822
+2025-01-14 12:38:24,541 - INFO - Recherche des fichiers pour le code produit : 10789825
+2025-01-14 12:38:29,361 - WARNING - Aucun fichier trouvé pour le code produit : 10789825
+2025-01-14 12:38:29,361 - INFO - Recherche des fichiers pour le code produit : 108078
+2025-01-14 12:38:33,670 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\PFB_tampons\108078_NL.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\108078_NL.eps
+2025-01-14 12:38:33,722 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\PFB_tampons\01_BE\108078_NL.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\108078_NL.eps
+2025-01-14 12:38:34,190 - INFO - Recherche des fichiers pour le code produit : 108079
+2025-01-14 12:38:38,546 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\PFB_tampons\108079_nl.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\108079_nl.eps
+2025-01-14 12:38:38,581 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\PFB_tampons\01_BE\108079_NL.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\108079_NL.eps
+2025-01-14 12:38:39,041 - INFO - Recherche des fichiers pour le code produit : 108109
+2025-01-14 12:38:42,822 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\Impression\108109.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\108109.eps
+2025-01-14 12:38:44,333 - INFO - Recherche des fichiers pour le code produit : 108132
+2025-01-14 12:38:49,440 - WARNING - Aucun fichier trouvé pour le code produit : 108132
+2025-01-14 12:38:49,440 - INFO - Recherche des fichiers pour le code produit : 108191
+2025-01-14 12:38:54,226 - WARNING - Aucun fichier trouvé pour le code produit : 108191
+2025-01-14 12:38:54,226 - INFO - Recherche des fichiers pour le code produit : 108288
+2025-01-14 12:38:59,211 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\Impression\108288.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\108288.eps
+2025-01-14 12:39:00,396 - INFO - Recherche des fichiers pour le code produit : 108289
+2025-01-14 12:39:04,326 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\Impression\108289.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\108289.eps
+2025-01-14 12:39:05,499 - INFO - Recherche des fichiers pour le code produit : 108290
+2025-01-14 12:39:09,486 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\Impression\108290.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\108290.eps
+2025-01-14 12:39:11,015 - INFO - Recherche des fichiers pour le code produit : 108291
+2025-01-14 12:39:15,116 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\Impression\108291.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\108291.eps
+2025-01-14 12:39:16,243 - INFO - Recherche des fichiers pour le code produit : 108304
+2025-01-14 12:39:20,873 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\Impression\108304.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\108304.eps
+2025-01-14 12:39:22,049 - INFO - Recherche des fichiers pour le code produit : 108305
+2025-01-14 12:39:25,702 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\Impression\108305.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\108305.eps
+2025-01-14 12:39:26,886 - INFO - Recherche des fichiers pour le code produit : 108306
+2025-01-14 12:39:30,858 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\Impression\108306.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\108306.eps
+2025-01-14 12:39:32,045 - INFO - Recherche des fichiers pour le code produit : 108421
+2025-01-14 12:39:37,009 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\Impression\108421.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\108421.eps
+2025-01-14 12:39:38,164 - INFO - Recherche des fichiers pour le code produit : 109849
+2025-01-14 12:39:42,664 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\Papier\109849.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\109849.eps
+2025-01-14 12:39:42,692 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\Papier\109849_b.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\109849_b.eps
+2025-01-14 12:39:43,340 - INFO - Recherche des fichiers pour le code produit : 112101
+2025-01-14 12:39:48,457 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\Papier\112101.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\112101.eps
+2025-01-14 12:39:49,386 - INFO - Recherche des fichiers pour le code produit : 112103
+2025-01-14 12:39:54,266 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\Papier\112103.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\112103.eps
+2025-01-14 12:39:55,209 - INFO - Recherche des fichiers pour le code produit : 112393
+2025-01-14 12:40:00,041 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\Papier\112393.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\112393.eps
+2025-01-14 12:40:00,071 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\Papier\112393_b.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\112393_b.eps
+2025-01-14 12:40:00,694 - INFO - Recherche des fichiers pour le code produit : 112444
+2025-01-14 12:40:05,083 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\PFB_tampons\112444.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\112444.eps
+2025-01-14 12:40:05,586 - INFO - Recherche des fichiers pour le code produit : 113055
+2025-01-14 12:40:10,084 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\Papier\113055.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\113055.eps
+2025-01-14 12:40:10,710 - INFO - Recherche des fichiers pour le code produit : 113156
+2025-01-14 12:40:15,511 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\Papier\113156.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\113156.eps
+2025-01-14 12:40:16,486 - INFO - Recherche des fichiers pour le code produit : 113175
+2025-01-14 12:40:19,896 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\Etiquettes_signaletique\113175.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\113175.eps
+2025-01-14 12:40:19,925 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\Etiquettes_signaletique\113175_a.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\113175_a.eps
+2025-01-14 12:40:19,955 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\Etiquettes_signaletique\113175_amb1.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\113175_amb1.eps
+2025-01-14 12:40:19,988 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\Etiquettes_signaletique\113175_amb2.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\113175_amb2.eps
+2025-01-14 12:40:21,931 - INFO - Recherche des fichiers pour le code produit : 113176
+2025-01-14 12:40:25,684 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\Etiquettes_signaletique\113176.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\113176.eps
+2025-01-14 12:40:25,718 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\Etiquettes_signaletique\113176_a.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\113176_a.eps
+2025-01-14 12:40:25,746 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\Etiquettes_signaletique\113176_amb1.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\113176_amb1.eps
+2025-01-14 12:40:27,202 - INFO - Recherche des fichiers pour le code produit : 113177
+2025-01-14 12:40:30,635 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\Etiquettes_signaletique\113177.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\113177.eps
+2025-01-14 12:40:30,662 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\Etiquettes_signaletique\113177_a.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\113177_a.eps
+2025-01-14 12:40:30,689 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\Etiquettes_signaletique\113177_amb1.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\113177_amb1.eps
+2025-01-14 12:40:32,153 - INFO - Recherche des fichiers pour le code produit : 113178
+2025-01-14 12:40:35,543 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\Etiquettes_signaletique\113178.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\113178.eps
+2025-01-14 12:40:35,570 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\Etiquettes_signaletique\113178_a.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\113178_a.eps
+2025-01-14 12:40:35,598 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\Etiquettes_signaletique\113178_amb1.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\113178_amb1.eps
+2025-01-14 12:40:37,368 - INFO - Recherche des fichiers pour le code produit : 113367
+2025-01-14 12:40:40,734 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\Classement_archivage\113367.02.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\113367.02.eps
+2025-01-14 12:40:40,760 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\Classement_archivage\113367.06.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\113367.06.eps
+2025-01-14 12:40:40,786 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\Classement_archivage\113367.14.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\113367.14.eps
+2025-01-14 12:40:40,812 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\Classement_archivage\113367.15.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\113367.15.eps
+2025-01-14 12:40:40,837 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\Classement_archivage\113367.18.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\113367.18.eps
+2025-01-14 12:40:40,861 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\Classement_archivage\113367.19.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\113367.19.eps
+2025-01-14 12:40:40,886 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\Classement_archivage\113367.22.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\113367.22.eps
+2025-01-14 12:40:43,038 - INFO - Recherche des fichiers pour le code produit : 11336702
+2025-01-14 12:40:48,800 - WARNING - Aucun fichier trouvé pour le code produit : 11336702
+2025-01-14 12:40:48,801 - INFO - Recherche des fichiers pour le code produit : 11336706
+2025-01-14 12:40:53,768 - WARNING - Aucun fichier trouvé pour le code produit : 11336706
+2025-01-14 12:40:53,768 - INFO - Recherche des fichiers pour le code produit : 11336714
+2025-01-14 12:40:58,695 - WARNING - Aucun fichier trouvé pour le code produit : 11336714
+2025-01-14 12:40:58,696 - INFO - Recherche des fichiers pour le code produit : 11336715
+2025-01-14 12:41:04,503 - WARNING - Aucun fichier trouvé pour le code produit : 11336715
+2025-01-14 12:41:04,504 - INFO - Recherche des fichiers pour le code produit : 11336718
+2025-01-14 12:41:10,010 - WARNING - Aucun fichier trouvé pour le code produit : 11336718
+2025-01-14 12:41:10,011 - INFO - Recherche des fichiers pour le code produit : 11336719
+2025-01-14 12:41:14,790 - WARNING - Aucun fichier trouvé pour le code produit : 11336719
+2025-01-14 12:41:14,791 - INFO - Recherche des fichiers pour le code produit : 11336722
+2025-01-14 12:41:19,673 - WARNING - Aucun fichier trouvé pour le code produit : 11336722
+2025-01-14 12:41:19,674 - INFO - Recherche des fichiers pour le code produit : 113533
+2025-01-14 12:41:22,487 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\Classement_archivage\113533.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\113533.eps
+2025-01-14 12:41:24,612 - INFO - Recherche des fichiers pour le code produit : 113534
+2025-01-14 12:41:27,329 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\Classement_archivage\113534.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\113534.eps
+2025-01-14 12:41:29,442 - INFO - Recherche des fichiers pour le code produit : 113782
+2025-01-14 12:41:33,048 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\Impression\113782.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\113782.eps
+2025-01-14 12:41:33,609 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\Papier\113782.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\113782.eps
+2025-01-14 12:41:34,611 - INFO - Recherche des fichiers pour le code produit : 114253
+2025-01-14 12:41:36,210 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\04_LUXEMBOURG\114253.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\114253.eps
+2025-01-14 12:41:37,676 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\Classement_archivage\01_BE\114253.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\114253.eps
+2025-01-14 12:41:39,728 - INFO - Recherche des fichiers pour le code produit : 114254
+2025-01-14 12:41:41,330 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\04_LUXEMBOURG\114254.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\114254.eps
+2025-01-14 12:41:42,789 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\Classement_archivage\01_BE\114254.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\114254.eps
+2025-01-14 12:41:44,864 - INFO - Recherche des fichiers pour le code produit : 114255
+2025-01-14 12:41:46,143 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\04_LUXEMBOURG\114255.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\114255.eps
+2025-01-14 12:41:47,586 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\Classement_archivage\01_BE\114255.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\114255.eps
+2025-01-14 12:41:49,659 - INFO - Recherche des fichiers pour le code produit : 115068
+2025-01-14 12:41:53,485 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\Classement_archivage\115068.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\115068.eps
+2025-01-14 12:41:56,462 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\Visu FIDUCIAL\Classement\Traite\115068.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\115068.eps
+2025-01-14 12:41:56,566 - INFO - Recherche des fichiers pour le code produit : 115069
+2025-01-14 12:42:00,219 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\Classement_archivage\115069.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\115069.eps
+2025-01-14 12:42:03,000 - INFO - Recherche des fichiers pour le code produit : 115071
+2025-01-14 12:42:06,383 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\Classement_archivage\115071.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\115071.eps
+2025-01-14 12:42:08,868 - INFO - Recherche des fichiers pour le code produit : 115072
+2025-01-14 12:42:11,963 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\Classement_archivage\115072.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\115072.eps
+2025-01-14 12:42:14,375 - INFO - Recherche des fichiers pour le code produit : 115073
+2025-01-14 12:42:17,143 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\Classement_archivage\115073.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\115073.eps
+2025-01-14 12:42:19,584 - INFO - Recherche des fichiers pour le code produit : 115280
+2025-01-14 12:42:23,253 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\Etiquettes_signaletique\115280.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\115280.eps
+2025-01-14 12:42:23,280 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\Etiquettes_signaletique\115280_a.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\115280_a.eps
+2025-01-14 12:42:23,309 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\Etiquettes_signaletique\115280_amb1.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\115280_amb1.eps
+2025-01-14 12:42:24,791 - INFO - Recherche des fichiers pour le code produit : 115618
+2025-01-14 12:42:28,469 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\Etiquettes_signaletique\115618.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\115618.eps
+2025-01-14 12:42:28,494 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\Etiquettes_signaletique\115618_a.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\115618_a.eps
+2025-01-14 12:42:28,539 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\Etiquettes_signaletique\115618_amb1.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\115618_amb1.eps
+2025-01-14 12:42:30,022 - INFO - Recherche des fichiers pour le code produit : 115620
+2025-01-14 12:42:33,741 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\Etiquettes_signaletique\115620.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\115620.eps
+2025-01-14 12:42:33,766 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\Etiquettes_signaletique\115620_a.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\115620_a.eps
+2025-01-14 12:42:35,275 - INFO - Recherche des fichiers pour le code produit : 115623
+2025-01-14 12:42:38,910 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\Etiquettes_signaletique\115623.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\115623.eps
+2025-01-14 12:42:38,937 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\Etiquettes_signaletique\115623_a.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\115623_a.eps
+2025-01-14 12:42:40,413 - INFO - Recherche des fichiers pour le code produit : 115628
+2025-01-14 12:42:44,059 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\Etiquettes_signaletique\115628.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\115628.eps
+2025-01-14 12:42:44,081 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\Etiquettes_signaletique\115628_a.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\115628_a.eps
+2025-01-14 12:42:45,866 - INFO - Recherche des fichiers pour le code produit : 115630
+2025-01-14 12:42:49,498 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\Etiquettes_signaletique\115630.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\115630.eps
+2025-01-14 12:42:49,525 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\Etiquettes_signaletique\115630_a.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\115630_a.eps
+2025-01-14 12:42:50,973 - INFO - Recherche des fichiers pour le code produit : 115811
+2025-01-14 12:42:52,196 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\02_PICTOS\Planches_etiquettes\115811.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\115811.eps
+2025-01-14 12:42:54,727 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\Etiquettes_signaletique\115811.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\115811.eps
+2025-01-14 12:42:54,753 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\Etiquettes_signaletique\115811_a.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\115811_a.eps
+2025-01-14 12:42:54,785 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\Etiquettes_signaletique\115811_b.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\115811_b.eps
+2025-01-14 12:42:56,235 - INFO - Recherche des fichiers pour le code produit : 116096
+2025-01-14 12:43:00,554 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\Mobilier\116096_120135.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\116096_120135.eps
+2025-01-14 12:43:00,585 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\Mobilier\116096_a.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\116096_a.eps
+2025-01-14 12:43:01,447 - INFO - Recherche des fichiers pour le code produit : 116100
+2025-01-14 12:43:05,479 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\Mobilier\116100.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\116100.eps
+2025-01-14 12:43:05,506 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\Mobilier\116100_schema.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\116100_schema.eps
+2025-01-14 12:43:06,339 - INFO - Recherche des fichiers pour le code produit : 116124
+2025-01-14 12:43:10,340 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\Mobilier\116124_120161.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\116124_120161.eps
+2025-01-14 12:43:11,192 - INFO - Recherche des fichiers pour le code produit : 116208
+2025-01-14 12:43:13,447 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\Alimentation\116208.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\116208.eps
+2025-01-14 12:43:16,068 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\Visus Périmés\116208.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\116208.eps
+2025-01-14 12:43:16,076 - INFO - Recherche des fichiers pour le code produit : 116211
+2025-01-14 12:43:18,283 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\Alimentation\116211.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\116211.eps
+2025-01-14 12:43:18,317 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\Alimentation\116211_b.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\116211_b.eps
+2025-01-14 12:43:20,990 - INFO - Recherche des fichiers pour le code produit : 116438
+2025-01-14 12:43:23,956 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\Enveloppes_expedition\116438.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\116438.eps
+2025-01-14 12:43:23,983 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\Enveloppes_expedition\116438_a.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\116438_a.eps
+2025-01-14 12:43:25,832 - INFO - Recherche des fichiers pour le code produit : 116439
+2025-01-14 12:43:28,803 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\Enveloppes_expedition\116439_a.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\116439_a.eps
+2025-01-14 12:43:28,833 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\Enveloppes_expedition\116439_b.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\116439_b.eps
+2025-01-14 12:43:30,652 - INFO - Recherche des fichiers pour le code produit : 116440
+2025-01-14 12:43:33,590 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\Enveloppes_expedition\116440_a.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\116440_a.eps
+2025-01-14 12:43:33,622 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\Enveloppes_expedition\116440_b.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\116440_b.eps
+2025-01-14 12:43:35,504 - INFO - Recherche des fichiers pour le code produit : 116441
+2025-01-14 12:43:38,461 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\Enveloppes_expedition\116441_a.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\116441_a.eps
+2025-01-14 12:43:38,492 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\Enveloppes_expedition\116441_b.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\116441_b.eps
+2025-01-14 12:43:40,344 - INFO - Recherche des fichiers pour le code produit : 116861
+2025-01-14 12:43:44,286 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\Mobilier\116861.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\116861.eps
+2025-01-14 12:43:44,314 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\Mobilier\116861_a.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\116861_a.eps
+2025-01-14 12:43:45,152 - INFO - Recherche des fichiers pour le code produit : 116869
+2025-01-14 12:43:49,776 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\Mobilier\116869.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\116869.eps
+2025-01-14 12:43:49,803 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\Mobilier\116869_870_118006_125876.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\116869_870_118006_125876.eps
+2025-01-14 12:43:49,829 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\Mobilier\116869_schema.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\116869_schema.eps
+2025-01-14 12:43:50,679 - INFO - Recherche des fichiers pour le code produit : 116870
+2025-01-14 12:43:54,670 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\Mobilier\116870.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\116870.eps
+2025-01-14 12:43:55,868 - INFO - Recherche des fichiers pour le code produit : 116871
+2025-01-14 12:43:59,838 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\Mobilier\116871.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\116871.eps
+2025-01-14 12:44:00,753 - INFO - Recherche des fichiers pour le code produit : 116875
+2025-01-14 12:44:04,782 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\Mobilier\116875.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\116875.eps
+2025-01-14 12:44:05,633 - INFO - Recherche des fichiers pour le code produit : 116888
+2025-01-14 12:44:10,268 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\Mobilier\116888.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\116888.eps
+2025-01-14 12:44:11,118 - INFO - Recherche des fichiers pour le code produit : 116909
+2025-01-14 12:44:15,454 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\Mobilier\116909.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\116909.eps
+2025-01-14 12:44:16,626 - INFO - Recherche des fichiers pour le code produit : 116912
+2025-01-14 12:44:20,536 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\Mobilier\116912.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\116912.eps
+2025-01-14 12:44:21,391 - INFO - Recherche des fichiers pour le code produit : 116915
+2025-01-14 12:44:25,440 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\Mobilier\116915.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\116915.eps
+2025-01-14 12:44:25,477 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\Mobilier\116915_a.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\116915_a.eps
+2025-01-14 12:44:25,508 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\Mobilier\116915_b.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\116915_b.eps
+2025-01-14 12:44:26,372 - INFO - Recherche des fichiers pour le code produit : 116917
+2025-01-14 12:44:30,401 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\Mobilier\116917.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\116917.eps
+2025-01-14 12:44:30,430 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\Mobilier\116917_amb.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\116917_amb.eps
+2025-01-14 12:44:31,259 - INFO - Recherche des fichiers pour le code produit : 116918
+2025-01-14 12:44:35,246 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\Mobilier\116918.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\116918.eps
+2025-01-14 12:44:36,089 - INFO - Recherche des fichiers pour le code produit : 116921
+2025-01-14 12:44:40,073 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\Mobilier\116921.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\116921.eps
+2025-01-14 12:44:40,912 - INFO - Recherche des fichiers pour le code produit : 116938
+2025-01-14 12:44:45,605 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\Services_generaux\116938.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\116938.eps
+2025-01-14 12:44:45,760 - INFO - Recherche des fichiers pour le code produit : 116939
+2025-01-14 12:44:50,093 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\Mobilier\116939_sit1.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\116939_sit1.eps
+2025-01-14 12:44:51,204 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\Services_generaux\116939.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\116939.eps
+2025-01-14 12:44:51,344 - INFO - Recherche des fichiers pour le code produit : 116947
+2025-01-14 12:44:55,934 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\Services_generaux\116947.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\116947.eps
+2025-01-14 12:44:56,092 - INFO - Recherche des fichiers pour le code produit : 116949
+2025-01-14 12:45:00,844 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\Services_generaux\116949.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\116949.eps
+2025-01-14 12:45:00,993 - INFO - Recherche des fichiers pour le code produit : 119670
+2025-01-14 12:45:04,487 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\Etiquettes_signaletique\119670.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\119670.eps
+2025-01-14 12:45:04,521 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\Etiquettes_signaletique\119670_b.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\119670_b.eps
+2025-01-14 12:45:06,011 - INFO - Recherche des fichiers pour le code produit : 119671
+2025-01-14 12:45:09,419 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\Etiquettes_signaletique\119671.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\119671.eps
+2025-01-14 12:45:09,449 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\Etiquettes_signaletique\119671_b.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\119671_b.eps
+2025-01-14 12:45:11,290 - INFO - Recherche des fichiers pour le code produit : 119672
+2025-01-14 12:45:14,641 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\Etiquettes_signaletique\119672.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\119672.eps
+2025-01-14 12:45:14,676 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\Etiquettes_signaletique\119672_amb1.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\119672_amb1.eps
+2025-01-14 12:45:14,705 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\Etiquettes_signaletique\119672_amb2.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\119672_amb2.eps
+2025-01-14 12:45:14,736 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\Etiquettes_signaletique\119672_b.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\119672_b.eps
+2025-01-14 12:45:16,207 - INFO - Recherche des fichiers pour le code produit : 119673
+2025-01-14 12:45:19,572 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\Etiquettes_signaletique\119673.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\119673.eps
+2025-01-14 12:45:19,614 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\Etiquettes_signaletique\119673_74_75_amb.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\119673_74_75_amb.eps
+2025-01-14 12:45:19,651 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\Etiquettes_signaletique\119673_b.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\119673_b.eps
+2025-01-14 12:45:21,101 - INFO - Recherche des fichiers pour le code produit : 119674
+2025-01-14 12:45:25,205 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\Etiquettes_signaletique\119674.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\119674.eps
+2025-01-14 12:45:25,234 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\Etiquettes_signaletique\119674_b.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\119674_b.eps
+2025-01-14 12:45:26,714 - INFO - Recherche des fichiers pour le code produit : 119675
+2025-01-14 12:45:30,168 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\Etiquettes_signaletique\119675.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\119675.eps
+2025-01-14 12:45:30,198 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\Etiquettes_signaletique\119675_b.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\119675_b.eps
+2025-01-14 12:45:31,661 - INFO - Recherche des fichiers pour le code produit : 119676
+2025-01-14 12:45:33,199 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\05_PHOTOS ACHETEES\COLLECT BOX\Originaux\shutterstock_661196764.jpg -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\shutterstock_661196764.jpg
+2025-01-14 12:45:35,150 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\Etiquettes_signaletique\119676.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\119676.eps
+2025-01-14 12:45:35,498 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\Etiquettes_signaletique\119676_77_amb.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\119676_77_amb.eps
+2025-01-14 12:45:35,529 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\Etiquettes_signaletique\119676_a.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\119676_a.eps
+2025-01-14 12:45:35,556 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\Etiquettes_signaletique\119676_amb.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\119676_amb.eps
+2025-01-14 12:45:35,588 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\Etiquettes_signaletique\119676_b.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\119676_b.eps
+2025-01-14 12:45:37,089 - INFO - Recherche des fichiers pour le code produit : 119677
+2025-01-14 12:45:40,746 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\Etiquettes_signaletique\119677.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\119677.eps
+2025-01-14 12:45:40,774 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\Etiquettes_signaletique\119677_a.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\119677_a.eps
+2025-01-14 12:45:40,798 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\Etiquettes_signaletique\119677_amb1.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\119677_amb1.eps
+2025-01-14 12:45:40,826 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\Etiquettes_signaletique\119677_b.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\119677_b.eps
+2025-01-14 12:45:42,563 - INFO - Recherche des fichiers pour le code produit : 119823
+2025-01-14 12:45:46,425 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\Enveloppes_expedition\119823.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\119823.eps
+2025-01-14 12:45:48,270 - INFO - Recherche des fichiers pour le code produit : 119825
+2025-01-14 12:45:51,639 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\Enveloppes_expedition\119825.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\119825.eps
+2025-01-14 12:45:53,471 - INFO - Recherche des fichiers pour le code produit : 120232
+2025-01-14 12:45:57,474 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\Mobilier\107191_120232.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\107191_120232.eps
+2025-01-14 12:45:58,357 - INFO - Recherche des fichiers pour le code produit : 120234
+2025-01-14 12:46:03,382 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\Mobilier\109927_120234.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\109927_120234.eps
+2025-01-14 12:46:03,410 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\Mobilier\109927_120234_b.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\109927_120234_b.eps
+2025-01-14 12:46:04,264 - INFO - Recherche des fichiers pour le code produit : 120243
+2025-01-14 12:46:08,674 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\Mobilier\288758_120243.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\288758_120243.eps
+2025-01-14 12:46:09,522 - INFO - Recherche des fichiers pour le code produit : 120245
+2025-01-14 12:46:14,337 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\Mobilier\120245.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\120245.eps
+2025-01-14 12:46:15,523 - INFO - Recherche des fichiers pour le code produit : 120246
+2025-01-14 12:46:19,841 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\Mobilier\120246.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\120246.eps
+2025-01-14 12:46:21,031 - INFO - Recherche des fichiers pour le code produit : 120436
+2025-01-14 12:46:25,642 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\Mobilier\120436.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\120436.eps
+2025-01-14 12:46:25,673 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\Mobilier\120436_Amb1.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\120436_Amb1.eps
+2025-01-14 12:46:25,701 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\Mobilier\120436_amb2.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\120436_amb2.eps
+2025-01-14 12:46:26,553 - INFO - Recherche des fichiers pour le code produit : 120440
+2025-01-14 12:46:30,621 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\Mobilier\120440.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\120440.eps
+2025-01-14 12:46:31,467 - INFO - Recherche des fichiers pour le code produit : 120441
+2025-01-14 12:46:35,512 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\Mobilier\120441.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\120441.eps
+2025-01-14 12:46:35,540 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\Mobilier\120441_amb1.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\120441_amb1.eps
+2025-01-14 12:46:35,582 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\Mobilier\120441_Amb2.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\120441_Amb2.eps
+2025-01-14 12:46:35,622 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\Mobilier\120441_Amb3.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\120441_Amb3.eps
+2025-01-14 12:46:36,481 - INFO - Recherche des fichiers pour le code produit : 120524
+2025-01-14 12:46:40,828 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\Mobilier\120524.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\120524.eps
+2025-01-14 12:46:41,676 - INFO - Recherche des fichiers pour le code produit : 120525
+2025-01-14 12:46:45,746 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\Mobilier\120525.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\120525.eps
+2025-01-14 12:46:46,653 - INFO - Recherche des fichiers pour le code produit : 120526
+2025-01-14 12:46:50,732 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\Mobilier\120526.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\120526.eps
+2025-01-14 12:46:51,572 - INFO - Recherche des fichiers pour le code produit : 120527
+2025-01-14 12:46:55,652 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\Mobilier\120527.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\120527.eps
+2025-01-14 12:46:56,512 - INFO - Recherche des fichiers pour le code produit : 120528
+2025-01-14 12:47:00,978 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\Mobilier\120528.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\120528.eps
+2025-01-14 12:47:01,832 - INFO - Recherche des fichiers pour le code produit : 120529
+2025-01-14 12:47:06,149 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\Mobilier\120529.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\120529.eps
+2025-01-14 12:47:06,991 - INFO - Recherche des fichiers pour le code produit : 120530
+2025-01-14 12:47:10,945 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\Mobilier\120530.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\120530.eps
+2025-01-14 12:47:11,863 - INFO - Recherche des fichiers pour le code produit : 120531
+2025-01-14 12:47:15,941 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\Mobilier\120531.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\120531.eps
+2025-01-14 12:47:17,122 - INFO - Recherche des fichiers pour le code produit : 120532
+2025-01-14 12:47:21,518 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\Mobilier\120532.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\120532.eps
+2025-01-14 12:47:22,378 - INFO - Recherche des fichiers pour le code produit : 121355
+2025-01-14 12:47:25,935 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\Hygiene\121355.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\121355.eps
+2025-01-14 12:47:27,295 - INFO - Recherche des fichiers pour le code produit : 121356
+2025-01-14 12:47:30,725 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\Hygiene\121356.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\121356.eps
+2025-01-14 12:47:32,065 - INFO - Recherche des fichiers pour le code produit : 121363
+2025-01-14 12:47:35,581 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\Hygiene\121363.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\121363.eps
+2025-01-14 12:47:35,610 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\Hygiene\121363_a.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\121363_a.eps
+2025-01-14 12:47:36,985 - INFO - Recherche des fichiers pour le code produit : 121367
+2025-01-14 12:47:40,470 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\Hygiene\121367.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\121367.eps
+2025-01-14 12:47:41,856 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\Visus Périmés\121367.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\121367.eps
+2025-01-14 12:47:41,863 - INFO - Recherche des fichiers pour le code produit : 121368
+2025-01-14 12:47:45,309 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\Hygiene\121368.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\121368.eps
+2025-01-14 12:47:47,008 - INFO - Recherche des fichiers pour le code produit : 121390
+2025-01-14 12:47:50,455 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\Hygiene\121390.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\121390.eps
+2025-01-14 12:47:51,827 - INFO - Recherche des fichiers pour le code produit : 121397
+2025-01-14 12:47:55,309 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\Hygiene\121397.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\121397.eps
+2025-01-14 12:47:56,669 - INFO - Recherche des fichiers pour le code produit : 121425
+2025-01-14 12:48:00,188 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\Hygiene\121425.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\121425.eps
+2025-01-14 12:48:01,604 - INFO - Recherche des fichiers pour le code produit : 121615
+2025-01-14 12:48:05,458 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\Hygiene\121615.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\121615.eps
+2025-01-14 12:48:06,859 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\Visus Périmés\121615.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\121615.eps
+2025-01-14 12:48:06,866 - INFO - Recherche des fichiers pour le code produit : 121616
+2025-01-14 12:48:10,442 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\Hygiene\121616.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\121616.eps
+2025-01-14 12:48:12,141 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\Visus Périmés\121616.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\121616.eps
+2025-01-14 12:48:12,146 - INFO - Recherche des fichiers pour le code produit : 121617
+2025-01-14 12:48:16,007 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\Hygiene\121617.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\121617.eps
+2025-01-14 12:48:17,389 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\Visus Périmés\121617.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\121617.eps
+2025-01-14 12:48:17,396 - INFO - Recherche des fichiers pour le code produit : 123138
+2025-01-14 12:48:20,921 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\Hygiene\106965_123138.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\106965_123138.eps
+2025-01-14 12:48:20,945 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\Hygiene\123138.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\123138.eps
+2025-01-14 12:48:22,243 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\Services_generaux\123138.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\123138.eps
+2025-01-14 12:48:22,409 - INFO - Recherche des fichiers pour le code produit : 124085
+2025-01-14 12:48:27,092 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\Services_generaux\124085_a.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\124085_a.eps
+2025-01-14 12:48:27,121 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\Services_generaux\124085_b.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\124085_b.eps
+2025-01-14 12:48:27,148 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\Services_generaux\124085_c.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\124085_c.eps
+2025-01-14 12:48:27,300 - INFO - Recherche des fichiers pour le code produit : 124263
+2025-01-14 12:48:32,054 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\Services_generaux\124263.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\124263.eps
+2025-01-14 12:48:32,206 - INFO - Recherche des fichiers pour le code produit : 124354
+2025-01-14 12:48:35,768 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\Hygiene\124354.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\124354.eps
+2025-01-14 12:48:37,153 - INFO - Recherche des fichiers pour le code produit : 124438
+2025-01-14 12:48:40,627 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\Hygiene\124438.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\124438.eps
+2025-01-14 12:48:42,062 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\Visus Périmés\124438.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\124438.eps
+2025-01-14 12:48:42,069 - INFO - Recherche des fichiers pour le code produit : 124440
+2025-01-14 12:48:45,638 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\Hygiene\124440.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\124440.eps
+2025-01-14 12:48:47,044 - INFO - Recherche des fichiers pour le code produit : 124442
+2025-01-14 12:48:50,585 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\Hygiene\124442.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\124442.eps
+2025-01-14 12:48:50,616 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\Hygiene\124442_b.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\124442_b.eps
+2025-01-14 12:48:51,995 - INFO - Recherche des fichiers pour le code produit : 124445
+2025-01-14 12:48:55,501 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\Hygiene\124445.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\124445.eps
+2025-01-14 12:48:55,530 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\Hygiene\124445_a.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\124445_a.eps
+2025-01-14 12:48:56,916 - INFO - Recherche des fichiers pour le code produit : 124446
+2025-01-14 12:49:00,413 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\Hygiene\124446.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\124446.eps
+2025-01-14 12:49:00,442 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\Hygiene\124446_a.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\124446_a.eps
+2025-01-14 12:49:01,855 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\Visus Périmés\124446.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\124446.eps
+2025-01-14 12:49:01,861 - INFO - Recherche des fichiers pour le code produit : 124447
+2025-01-14 12:49:05,642 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\Hygiene\124447.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\124447.eps
+2025-01-14 12:49:05,671 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\Hygiene\124447_a.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\124447_a.eps
+2025-01-14 12:49:07,104 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\Visus Périmés\124447.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\124447.eps
+2025-01-14 12:49:07,108 - INFO - Recherche des fichiers pour le code produit : 124448
+2025-01-14 12:49:10,622 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\Hygiene\124448_a.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\124448_a.eps
+2025-01-14 12:49:10,664 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\Hygiene\124448_b.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\124448_b.eps
+2025-01-14 12:49:12,037 - INFO - Recherche des fichiers pour le code produit : 124468
+2025-01-14 12:49:17,087 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\Services_generaux\124468.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\124468.eps
+2025-01-14 12:49:17,118 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\Services_generaux\124468_sit1.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\124468_sit1.eps
+2025-01-14 12:49:17,282 - INFO - Recherche des fichiers pour le code produit : 124469
+2025-01-14 12:49:22,008 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\Services_generaux\124469.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\124469.eps
+2025-01-14 12:49:22,038 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\Services_generaux\124469_sit1.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\124469_sit1.eps
+2025-01-14 12:49:22,194 - INFO - Recherche des fichiers pour le code produit : 124479
+2025-01-14 12:49:23,868 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\05_PHOTOS ACHETEES\TopPerformer 2023\shutterstock_664124479.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\shutterstock_664124479.eps
+2025-01-14 12:49:26,525 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\Hygiene\124479.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\124479.eps
+2025-01-14 12:49:27,920 - INFO - Recherche des fichiers pour le code produit : 124933
+2025-01-14 12:49:31,435 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\Hygiene\124933.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\124933.eps
+2025-01-14 12:49:31,466 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\Hygiene\124933_a.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\124933_a.eps
+2025-01-14 12:49:31,499 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\Hygiene\124933_e.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\124933_e.eps
+2025-01-14 12:49:31,526 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\Hygiene\124933_f.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\124933_f.eps
+2025-01-14 12:49:33,227 - INFO - Recherche des fichiers pour le code produit : 128128
+2025-01-14 12:49:37,972 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\Services_generaux\128128 _a.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\128128 _a.eps
+2025-01-14 12:49:38,006 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\Services_generaux\128128.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\128128.eps
+2025-01-14 12:49:38,037 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\Services_generaux\128128_amb1.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\128128_amb1.eps
+2025-01-14 12:49:38,094 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\Services_generaux\2023\128128.35_ens.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\128128.35_ens.eps
+2025-01-14 12:49:38,230 - INFO - Recherche des fichiers pour le code produit : 12812835
+2025-01-14 12:49:43,037 - WARNING - Aucun fichier trouvé pour le code produit : 12812835
+2025-01-14 12:49:43,037 - INFO - Recherche des fichiers pour le code produit : 12812837
+2025-01-14 12:49:48,491 - WARNING - Aucun fichier trouvé pour le code produit : 12812837
+2025-01-14 12:49:48,492 - INFO - Recherche des fichiers pour le code produit : 12812838
+2025-01-14 12:49:54,271 - WARNING - Aucun fichier trouvé pour le code produit : 12812838
+2025-01-14 12:49:54,272 - INFO - Recherche des fichiers pour le code produit : 12812839
+2025-01-14 12:49:59,470 - WARNING - Aucun fichier trouvé pour le code produit : 12812839
+2025-01-14 12:49:59,471 - INFO - Recherche des fichiers pour le code produit : 12812843
+2025-01-14 12:50:04,337 - WARNING - Aucun fichier trouvé pour le code produit : 12812843
+2025-01-14 12:50:04,338 - INFO - Recherche des fichiers pour le code produit : 12812848
+2025-01-14 12:50:09,085 - WARNING - Aucun fichier trouvé pour le code produit : 12812848
+2025-01-14 12:50:09,086 - INFO - Recherche des fichiers pour le code produit : 12812849
+2025-01-14 12:50:14,149 - WARNING - Aucun fichier trouvé pour le code produit : 12812849
+2025-01-14 12:50:14,150 - INFO - Recherche des fichiers pour le code produit : 128270
+2025-01-14 12:50:16,397 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\Alimentation\128270.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\128270.eps
+2025-01-14 12:50:16,425 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\Alimentation\128270_a.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\128270_a.eps
+2025-01-14 12:50:16,466 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\Alimentation\128270_b.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\128270_b.eps
+2025-01-14 12:50:16,493 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\Alimentation\128270_c.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\128270_c.eps
+2025-01-14 12:50:19,137 - INFO - Recherche des fichiers pour le code produit : 128283
+2025-01-14 12:50:21,702 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\Alimentation\128283.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\128283.eps
+2025-01-14 12:50:21,733 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\Alimentation\128283_a.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\128283_a.eps
+2025-01-14 12:50:24,790 - INFO - Recherche des fichiers pour le code produit : 129069
+2025-01-14 12:50:29,780 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\Mobilier\129069.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\129069.eps
+2025-01-14 12:50:30,634 - INFO - Recherche des fichiers pour le code produit : 129070
+2025-01-14 12:50:34,631 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\Mobilier\129070.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\129070.eps
+2025-01-14 12:50:35,854 - INFO - Recherche des fichiers pour le code produit : 129076
+2025-01-14 12:50:40,127 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\Mobilier\129076.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\129076.eps
+2025-01-14 12:50:40,970 - INFO - Recherche des fichiers pour le code produit : 129077
+2025-01-14 12:50:45,595 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\Mobilier\129077.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\129077.eps
+2025-01-14 12:50:46,433 - INFO - Recherche des fichiers pour le code produit : 129078
+2025-01-14 12:50:50,758 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\Mobilier\129078.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\129078.eps
+2025-01-14 12:50:51,642 - INFO - Recherche des fichiers pour le code produit : 129080
+2025-01-14 12:50:55,699 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\Mobilier\129080.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\129080.eps
+2025-01-14 12:50:56,887 - INFO - Recherche des fichiers pour le code produit : 129085
+2025-01-14 12:51:00,927 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\Mobilier\129085.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\129085.eps
+2025-01-14 12:51:01,774 - INFO - Recherche des fichiers pour le code produit : 129087
+2025-01-14 12:51:06,094 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\Mobilier\129087.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\129087.eps
+2025-01-14 12:51:06,930 - INFO - Recherche des fichiers pour le code produit : 129093
+2025-01-14 12:51:11,277 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\Mobilier\129093.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\129093.eps
+2025-01-14 12:51:12,524 - INFO - Recherche des fichiers pour le code produit : 129101
+2025-01-14 12:51:16,939 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\Mobilier\129101.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\129101.eps
+2025-01-14 12:51:16,965 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\Mobilier\129101_a.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\129101_a.eps
+2025-01-14 12:51:16,992 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\Mobilier\129101_b.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\129101_b.eps
+2025-01-14 12:51:17,020 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\Mobilier\129101_c.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\129101_c.eps
+2025-01-14 12:51:17,047 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\Mobilier\129101_d.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\129101_d.eps
+2025-01-14 12:51:17,076 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\Mobilier\129101_e.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\129101_e.eps
+2025-01-14 12:51:17,958 - INFO - Recherche des fichiers pour le code produit : 129166
+2025-01-14 12:51:22,395 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\Mobilier\129166.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\129166.eps
+2025-01-14 12:51:22,422 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\Mobilier\129166_a.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\129166_a.eps
+2025-01-14 12:51:22,469 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\Mobilier\129166_amb1.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\129166_amb1.eps
+2025-01-14 12:51:22,496 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\Mobilier\129166_b.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\129166_b.eps
+2025-01-14 12:51:22,523 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\Mobilier\129166_c.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\129166_c.eps
+2025-01-14 12:51:23,427 - INFO - Recherche des fichiers pour le code produit : 12916607
+2025-01-14 12:51:29,521 - WARNING - Aucun fichier trouvé pour le code produit : 12916607
+2025-01-14 12:51:29,521 - INFO - Recherche des fichiers pour le code produit : 12916615
+2025-01-14 12:51:34,582 - WARNING - Aucun fichier trouvé pour le code produit : 12916615
+2025-01-14 12:51:34,583 - INFO - Recherche des fichiers pour le code produit : 12916618
+2025-01-14 12:51:39,911 - WARNING - Aucun fichier trouvé pour le code produit : 12916618
+2025-01-14 12:51:39,911 - INFO - Recherche des fichiers pour le code produit : 134387
+2025-01-14 12:51:44,792 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\Services_generaux\134387.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\134387.eps
+2025-01-14 12:51:44,990 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\Visus Périmés\134387.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\134387.eps
+2025-01-14 12:51:45,019 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\Visus Périmés\134387_b.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\134387_b.eps
+2025-01-14 12:51:45,026 - INFO - Recherche des fichiers pour le code produit : 13438740
+2025-01-14 12:51:49,972 - WARNING - Aucun fichier trouvé pour le code produit : 13438740
+2025-01-14 12:51:49,973 - INFO - Recherche des fichiers pour le code produit : 13438741
+2025-01-14 12:51:56,574 - WARNING - Aucun fichier trouvé pour le code produit : 13438741
+2025-01-14 12:51:56,575 - INFO - Recherche des fichiers pour le code produit : 13438742
+2025-01-14 12:52:01,624 - WARNING - Aucun fichier trouvé pour le code produit : 13438742
+2025-01-14 12:52:01,625 - INFO - Recherche des fichiers pour le code produit : 13438743
+2025-01-14 12:52:06,481 - WARNING - Aucun fichier trouvé pour le code produit : 13438743
+2025-01-14 12:52:06,482 - INFO - Recherche des fichiers pour le code produit : 134894
+2025-01-14 12:52:10,851 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\PFB_tampons\134894.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\134894.eps
+2025-01-14 12:52:11,333 - INFO - Recherche des fichiers pour le code produit : 134895
+2025-01-14 12:52:15,771 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\PFB_tampons\134895.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\134895.eps
+2025-01-14 12:52:15,801 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\PFB_tampons\134895_a.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\134895_a.eps
+2025-01-14 12:52:16,270 - INFO - Recherche des fichiers pour le code produit : 134896
+2025-01-14 12:52:20,621 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\PFB_tampons\134896.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\134896.eps
+2025-01-14 12:52:21,095 - INFO - Recherche des fichiers pour le code produit : 140541
+2025-01-14 12:52:23,404 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\Alimentation\140541.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\140541.eps
+2025-01-14 12:52:26,059 - INFO - Recherche des fichiers pour le code produit : 140542
+2025-01-14 12:52:28,279 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\Alimentation\140542.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\140542.eps
+2025-01-14 12:52:30,985 - INFO - Recherche des fichiers pour le code produit : 140855
+2025-01-14 12:52:35,690 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\Services_generaux\140855.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\140855.eps
+2025-01-14 12:52:35,715 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\Services_generaux\140855_a.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\140855_a.eps
+2025-01-14 12:52:35,739 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\Services_generaux\140855_b.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\140855_b.eps
+2025-01-14 12:52:35,767 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\Services_generaux\140855_c.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\140855_c.eps
+2025-01-14 12:52:35,796 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\Services_generaux\140855_d.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\140855_d.eps
+2025-01-14 12:52:35,936 - INFO - Recherche des fichiers pour le code produit : 140856
+2025-01-14 12:52:40,654 - WARNING - Aucun fichier trouvé pour le code produit : 140856
+2025-01-14 12:52:40,655 - INFO - Recherche des fichiers pour le code produit : 140859
+2025-01-14 12:52:45,447 - WARNING - Aucun fichier trouvé pour le code produit : 140859
+2025-01-14 12:52:45,448 - INFO - Recherche des fichiers pour le code produit : 140860
+2025-01-14 12:52:50,221 - WARNING - Aucun fichier trouvé pour le code produit : 140860
+2025-01-14 12:52:50,221 - INFO - Recherche des fichiers pour le code produit : 143016
+2025-01-14 12:52:54,968 - WARNING - Aucun fichier trouvé pour le code produit : 143016
+2025-01-14 12:52:54,969 - INFO - Recherche des fichiers pour le code produit : 146236
+2025-01-14 12:52:59,305 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\PFB_tampons\146236.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\146236.eps
+2025-01-14 12:52:59,799 - INFO - Recherche des fichiers pour le code produit : 146420
+2025-01-14 12:53:02,038 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\Alimentation\146420.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\146420.eps
+2025-01-14 12:53:04,998 - INFO - Recherche des fichiers pour le code produit : 146863
+2025-01-14 12:53:09,693 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\Services_generaux\146863.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\146863.eps
+2025-01-14 12:53:09,721 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\Services_generaux\146863_a.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\146863_a.eps
+2025-01-14 12:53:09,751 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\Services_generaux\146863_b.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\146863_b.eps
+2025-01-14 12:53:09,778 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\Services_generaux\146863_c.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\146863_c.eps
+2025-01-14 12:53:09,807 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\Services_generaux\146863_d.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\146863_d.eps
+2025-01-14 12:53:09,968 - INFO - Recherche des fichiers pour le code produit : 14686336
+2025-01-14 12:53:14,876 - WARNING - Aucun fichier trouvé pour le code produit : 14686336
+2025-01-14 12:53:14,877 - INFO - Recherche des fichiers pour le code produit : 14686337
+2025-01-14 12:53:19,674 - WARNING - Aucun fichier trouvé pour le code produit : 14686337
+2025-01-14 12:53:19,675 - INFO - Recherche des fichiers pour le code produit : 14686338
+2025-01-14 12:53:24,738 - WARNING - Aucun fichier trouvé pour le code produit : 14686338
+2025-01-14 12:53:24,739 - INFO - Recherche des fichiers pour le code produit : 14686339
+2025-01-14 12:53:29,548 - WARNING - Aucun fichier trouvé pour le code produit : 14686339
+2025-01-14 12:53:29,548 - INFO - Recherche des fichiers pour le code produit : 14686340
+2025-01-14 12:53:34,600 - WARNING - Aucun fichier trouvé pour le code produit : 14686340
+2025-01-14 12:53:34,600 - INFO - Recherche des fichiers pour le code produit : 14686341
+2025-01-14 12:53:39,395 - WARNING - Aucun fichier trouvé pour le code produit : 14686341
+2025-01-14 12:53:39,396 - INFO - Recherche des fichiers pour le code produit : 14686342
+2025-01-14 12:53:44,176 - WARNING - Aucun fichier trouvé pour le code produit : 14686342
+2025-01-14 12:53:44,177 - INFO - Recherche des fichiers pour le code produit : 14686343
+2025-01-14 12:53:48,949 - WARNING - Aucun fichier trouvé pour le code produit : 14686343
+2025-01-14 12:53:48,949 - INFO - Recherche des fichiers pour le code produit : 14686344
+2025-01-14 12:53:53,766 - WARNING - Aucun fichier trouvé pour le code produit : 14686344
+2025-01-14 12:53:53,767 - INFO - Recherche des fichiers pour le code produit : 14686345
+2025-01-14 12:53:58,506 - WARNING - Aucun fichier trouvé pour le code produit : 14686345
+2025-01-14 12:53:58,507 - INFO - Recherche des fichiers pour le code produit : 14686346
+2025-01-14 12:54:03,964 - WARNING - Aucun fichier trouvé pour le code produit : 14686346
+2025-01-14 12:54:03,964 - INFO - Recherche des fichiers pour le code produit : 14686347
+2025-01-14 12:54:08,734 - WARNING - Aucun fichier trouvé pour le code produit : 14686347
+2025-01-14 12:54:08,735 - INFO - Recherche des fichiers pour le code produit : 14686348
+2025-01-14 12:54:13,472 - WARNING - Aucun fichier trouvé pour le code produit : 14686348
+2025-01-14 12:54:13,472 - INFO - Recherche des fichiers pour le code produit : 147798
+2025-01-14 12:54:18,145 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\Services_generaux\147798.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\147798.eps
+2025-01-14 12:54:18,170 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\Services_generaux\147798_a.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\147798_a.eps
+2025-01-14 12:54:18,325 - INFO - Recherche des fichiers pour le code produit : 14779803
+2025-01-14 12:54:23,830 - WARNING - Aucun fichier trouvé pour le code produit : 14779803
+2025-01-14 12:54:23,830 - INFO - Recherche des fichiers pour le code produit : 14779804
+2025-01-14 12:54:29,565 - WARNING - Aucun fichier trouvé pour le code produit : 14779804
+2025-01-14 12:54:29,565 - INFO - Recherche des fichiers pour le code produit : 14779805
+2025-01-14 12:54:34,353 - WARNING - Aucun fichier trouvé pour le code produit : 14779805
+2025-01-14 12:54:34,353 - INFO - Recherche des fichiers pour le code produit : 14779806
+2025-01-14 12:54:39,194 - WARNING - Aucun fichier trouvé pour le code produit : 14779806
+2025-01-14 12:54:39,195 - INFO - Recherche des fichiers pour le code produit : 14779807
+2025-01-14 12:54:44,295 - WARNING - Aucun fichier trouvé pour le code produit : 14779807
+2025-01-14 12:54:44,295 - INFO - Recherche des fichiers pour le code produit : 14779808
+2025-01-14 12:54:50,021 - WARNING - Aucun fichier trouvé pour le code produit : 14779808
+2025-01-14 12:54:50,021 - INFO - Recherche des fichiers pour le code produit : 14779809
+2025-01-14 12:54:54,837 - WARNING - Aucun fichier trouvé pour le code produit : 14779809
+2025-01-14 12:54:54,838 - INFO - Recherche des fichiers pour le code produit : 14779810
+2025-01-14 12:54:59,682 - WARNING - Aucun fichier trouvé pour le code produit : 14779810
+2025-01-14 12:54:59,683 - INFO - Recherche des fichiers pour le code produit : 148038
+2025-01-14 12:55:02,236 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\Alimentation\148038.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\148038.eps
+2025-01-14 12:55:04,988 - INFO - Recherche des fichiers pour le code produit : 148039
+2025-01-14 12:55:07,186 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\Alimentation\148039.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\148039.eps
+2025-01-14 12:55:09,755 - INFO - Recherche des fichiers pour le code produit : 148040
+2025-01-14 12:55:11,930 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\Alimentation\148040.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\148040.eps
+2025-01-14 12:55:14,878 - INFO - Recherche des fichiers pour le code produit : 150168
+2025-01-14 12:55:19,880 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\PFB_tampons\150168.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\150168.eps
+2025-01-14 12:55:19,911 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\PFB_tampons\150168_a.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\150168_a.eps
+2025-01-14 12:55:19,937 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\PFB_tampons\150168_b.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\150168_b.eps
+2025-01-14 12:55:19,965 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\PFB_tampons\150168_c.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\150168_c.eps
+2025-01-14 12:55:20,474 - INFO - Recherche des fichiers pour le code produit : 150169
+2025-01-14 12:55:25,362 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\PFB_tampons\150169.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\150169.eps
+2025-01-14 12:55:25,833 - INFO - Recherche des fichiers pour le code produit : 150170
+2025-01-14 12:55:30,163 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\PFB_tampons\150170.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\150170.eps
+2025-01-14 12:55:30,198 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\PFB_tampons\150170_a.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\150170_a.eps
+2025-01-14 12:55:30,232 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\PFB_tampons\150170_b.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\150170_b.eps
+2025-01-14 12:55:30,709 - INFO - Recherche des fichiers pour le code produit : 312700
+2025-01-14 12:55:35,032 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\PFB_tampons\312700_701.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\312700_701.eps
+2025-01-14 12:55:35,521 - INFO - Recherche des fichiers pour le code produit : 312802
+2025-01-14 12:55:40,128 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\PFB_tampons\312802_312803.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\312802_312803.eps
+2025-01-14 12:55:40,165 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\PFB_tampons\312802_803_loupe1.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\312802_803_loupe1.eps
+2025-01-14 12:55:40,193 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\PFB_tampons\312802_sit.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\312802_sit.eps
+2025-01-14 12:55:40,652 - INFO - Recherche des fichiers pour le code produit : 315029
+2025-01-14 12:55:45,043 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\PFB_tampons\315029_loupe2.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\315029_loupe2.eps
+2025-01-14 12:55:45,071 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\PFB_tampons\315029_sit1.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\315029_sit1.eps
+2025-01-14 12:55:45,571 - INFO - Recherche des fichiers pour le code produit : 315031
+2025-01-14 12:55:49,940 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\PFB_tampons\315031_loupe2.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\315031_loupe2.eps
+2025-01-14 12:55:49,969 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\PFB_tampons\315031_sit1.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\315031_sit1.eps
+2025-01-14 12:55:50,442 - INFO - Recherche des fichiers pour le code produit : 315034
+2025-01-14 12:55:51,839 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\05_PHOTOS ACHETEES\0000_ORIGINAUX\shutterstock_315034769.jpg -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\shutterstock_315034769.jpg
+2025-01-14 12:55:54,853 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\PFB_tampons\315034_loupe2.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\315034_loupe2.eps
+2025-01-14 12:55:54,880 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\PFB_tampons\315034_sit1.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\315034_sit1.eps
+2025-01-14 12:55:55,368 - INFO - Recherche des fichiers pour le code produit : 315036
+2025-01-14 12:56:00,427 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\PFB_tampons\315036_loupe2.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\315036_loupe2.eps
+2025-01-14 12:56:00,456 - INFO - Fichier copié : \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_ PHOTOS_HD\PFB_tampons\315036_sit1.eps -> \\Svlyofic102\stockage\GROUPE\FOS\Marketing\Phototheque\00_PHOTOS_HD_EPS_JPG\315036_sit1.eps
+2025-01-14 12:56:00,941 - INFO - Recherche des fichiers pour le code produit : 662573
+2025-01-14 12:56:06,013 - WARNING - Aucun fichier trouvé pour le code produit : 662573
+2025-01-14 12:56:06,014 - INFO - Recherche des fichiers pour le code produit : 662574
+2025-01-14 12:56:10,824 - WARNING - Aucun fichier trouvé pour le code produit : 662574
+2025-01-14 12:56:10,825 - INFO - Recherche des fichiers pour le code produit : 662575
+2025-01-14 12:56:15,868 - WARNING - Aucun fichier trouvé pour le code produit : 662575
+2025-01-14 12:56:15,868 - INFO - Recherche des fichiers pour le code produit : 662576
+2025-01-14 12:56:20,991 - WARNING - Aucun fichier trouvé pour le code produit : 662576
+2025-01-14 12:56:20,992 - INFO - Recherche des fichiers pour le code produit : 662577
+2025-01-14 12:56:26,481 - WARNING - Aucun fichier trouvé pour le code produit : 662577
+2025-01-14 12:56:26,481 - INFO - Recherche des fichiers pour le code produit : 662578
+2025-01-14 12:56:31,355 - WARNING - Aucun fichier trouvé pour le code produit : 662578
+2025-01-14 12:56:31,355 - INFO - Recherche des fichiers pour le code produit : 662579
+2025-01-14 12:56:36,473 - WARNING - Aucun fichier trouvé pour le code produit : 662579
+2025-01-14 12:56:36,474 - INFO - Recherche des fichiers pour le code produit : 662580
+2025-01-14 12:56:41,182 - WARNING - Aucun fichier trouvé pour le code produit : 662580
+2025-01-14 12:56:41,183 - INFO - Recherche des fichiers pour le code produit : 662581
+2025-01-14 12:56:45,934 - WARNING - Aucun fichier trouvé pour le code produit : 662581
+2025-01-14 12:56:45,934 - INFO - Recherche des fichiers pour le code produit : 662582
+2025-01-14 12:56:50,655 - WARNING - Aucun fichier trouvé pour le code produit : 662582
+2025-01-14 12:56:50,656 - INFO - Recherche des fichiers pour le code produit : 662583
+2025-01-14 12:56:55,419 - WARNING - Aucun fichier trouvé pour le code produit : 662583
+2025-01-14 12:56:55,419 - INFO - Recherche des fichiers pour le code produit : 662584
+2025-01-14 12:57:00,252 - WARNING - Aucun fichier trouvé pour le code produit : 662584
+2025-01-14 12:57:00,252 - INFO - Recherche des fichiers pour le code produit : 662585
+2025-01-14 12:57:05,071 - WARNING - Aucun fichier trouvé pour le code produit : 662585
+2025-01-14 12:57:05,072 - INFO - Recherche des fichiers pour le code produit : 662586
+2025-01-14 12:57:10,118 - WARNING - Aucun fichier trouvé pour le code produit : 662586
+2025-01-14 12:57:10,119 - INFO - Recherche des fichiers pour le code produit : 662587
+2025-01-14 12:57:15,252 - WARNING - Aucun fichier trouvé pour le code produit : 662587
+2025-01-14 12:57:15,253 - INFO - Recherche des fichiers pour le code produit : 662588
+2025-01-14 12:57:20,023 - WARNING - Aucun fichier trouvé pour le code produit : 662588
+2025-01-14 12:57:20,024 - INFO - Recherche des fichiers pour le code produit : 662589
+2025-01-14 12:57:25,216 - WARNING - Aucun fichier trouvé pour le code produit : 662589
+2025-01-14 12:57:25,217 - INFO - Recherche des fichiers pour le code produit : 662590
+2025-01-14 12:57:29,919 - WARNING - Aucun fichier trouvé pour le code produit : 662590
+2025-01-14 12:57:29,920 - INFO - Recherche des fichiers pour le code produit : 662591
+2025-01-14 12:57:35,028 - WARNING - Aucun fichier trouvé pour le code produit : 662591
+2025-01-14 12:57:35,029 - INFO - Recherche des fichiers pour le code produit : 662592
+2025-01-14 12:57:39,913 - WARNING - Aucun fichier trouvé pour le code produit : 662592
+2025-01-14 12:57:39,914 - INFO - Recherche des fichiers pour le code produit : 662593
+2025-01-14 12:57:44,931 - WARNING - Aucun fichier trouvé pour le code produit : 662593
+2025-01-14 12:57:44,932 - INFO - Recherche des fichiers pour le code produit : 662594
+2025-01-14 12:57:49,966 - WARNING - Aucun fichier trouvé pour le code produit : 662594
+2025-01-14 12:57:49,967 - INFO - Recherche des fichiers pour le code produit : 662595
+2025-01-14 12:57:54,708 - WARNING - Aucun fichier trouvé pour le code produit : 662595
+2025-01-14 12:57:54,709 - INFO - Recherche des fichiers pour le code produit : 662596
+2025-01-14 12:57:59,413 - WARNING - Aucun fichier trouvé pour le code produit : 662596
+2025-01-14 12:57:59,413 - INFO - Recherche des fichiers pour le code produit : 662597
+2025-01-14 12:58:04,601 - WARNING - Aucun fichier trouvé pour le code produit : 662597
+2025-01-14 12:58:04,601 - INFO - Recherche des fichiers pour le code produit : 662598
+2025-01-14 12:58:09,682 - WARNING - Aucun fichier trouvé pour le code produit : 662598
+2025-01-14 12:58:09,683 - INFO - Recherche des fichiers pour le code produit : 662599
+2025-01-14 12:58:14,414 - WARNING - Aucun fichier trouvé pour le code produit : 662599
+2025-01-14 12:58:14,415 - INFO - Recherche des fichiers pour le code produit : 662600
+2025-01-14 12:58:19,815 - WARNING - Aucun fichier trouvé pour le code produit : 662600
+2025-01-14 12:58:19,816 - INFO - Recherche des fichiers pour le code produit : W26790
+2025-01-14 12:58:24,995 - WARNING - Aucun fichier trouvé pour le code produit : W26790
+2025-01-14 12:58:24,996 - INFO - Recherche des fichiers pour le code produit : W26791
+2025-01-14 12:58:29,982 - WARNING - Aucun fichier trouvé pour le code produit : W26791
+2025-01-14 12:58:29,983 - INFO - Recherche des fichiers pour le code produit : W26792
+2025-01-14 12:58:34,733 - WARNING - Aucun fichier trouvé pour le code produit : W26792
+2025-01-14 12:58:34,733 - INFO - Recherche des fichiers pour le code produit : W26793
+2025-01-14 12:58:39,778 - WARNING - Aucun fichier trouvé pour le code produit : W26793
+2025-01-14 12:58:39,779 - INFO - Recherche des fichiers pour le code produit : W26794
+2025-01-14 12:58:45,547 - WARNING - Aucun fichier trouvé pour le code produit : W26794
+2025-01-14 12:58:45,547 - INFO - Recherche des fichiers pour le code produit : W26795
+2025-01-14 12:58:50,272 - WARNING - Aucun fichier trouvé pour le code produit : W26795
+2025-01-14 12:58:50,273 - INFO - Recherche des fichiers pour le code produit : W26796
+2025-01-14 12:58:55,994 - WARNING - Aucun fichier trouvé pour le code produit : W26796
+2025-01-14 12:58:55,995 - INFO - Recherche des fichiers pour le code produit : W26799
+2025-01-14 12:59:01,838 - WARNING - Aucun fichier trouvé pour le code produit : W26799
+2025-01-14 12:59:01,839 - INFO - Recherche des fichiers pour le code produit : W26800
+2025-01-14 12:59:07,220 - WARNING - Aucun fichier trouvé pour le code produit : W26800
+2025-01-14 12:59:07,220 - INFO - Recherche des fichiers pour le code produit : W26801
+2025-01-14 12:59:12,271 - WARNING - Aucun fichier trouvé pour le code produit : W26801
+2025-01-14 12:59:12,272 - INFO - Recherche des fichiers pour le code produit : W26802
+2025-01-14 12:59:18,088 - WARNING - Aucun fichier trouvé pour le code produit : W26802
+2025-01-14 12:59:18,089 - INFO - Recherche des fichiers pour le code produit : W26803
+2025-01-14 12:59:23,253 - WARNING - Aucun fichier trouvé pour le code produit : W26803
+2025-01-14 12:59:23,254 - INFO - Recherche des fichiers pour le code produit : W26804
+2025-01-14 12:59:28,029 - WARNING - Aucun fichier trouvé pour le code produit : W26804
+2025-01-14 12:59:28,030 - INFO - Recherche des fichiers pour le code produit : W26806
+2025-01-14 12:59:34,104 - WARNING - Aucun fichier trouvé pour le code produit : W26806
+2025-01-14 12:59:34,104 - INFO - Recherche des fichiers pour le code produit : W26807
+2025-01-14 12:59:39,260 - WARNING - Aucun fichier trouvé pour le code produit : W26807
+2025-01-14 12:59:39,261 - INFO - Recherche des fichiers pour le code produit : W26808
+2025-01-14 12:59:44,393 - WARNING - Aucun fichier trouvé pour le code produit : W26808
+2025-01-14 12:59:44,394 - INFO - Recherche des fichiers pour le code produit : W26810
+2025-01-14 12:59:49,193 - WARNING - Aucun fichier trouvé pour le code produit : W26810
+2025-01-14 12:59:49,194 - INFO - Recherche des fichiers pour le code produit : W26812
+2025-01-14 12:59:53,919 - WARNING - Aucun fichier trouvé pour le code produit : W26812
+2025-01-14 12:59:53,919 - INFO - Recherche des fichiers pour le code produit : W26817
+2025-01-14 12:59:58,974 - WARNING - Aucun fichier trouvé pour le code produit : W26817
+2025-01-14 12:59:58,974 - INFO - Recherche des fichiers pour le code produit : W26818
+2025-01-14 13:00:04,385 - WARNING - Aucun fichier trouvé pour le code produit : W26818
+2025-01-14 13:00:04,386 - INFO - Recherche des fichiers pour le code produit : W26819
+2025-01-14 13:00:09,601 - WARNING - Aucun fichier trouvé pour le code produit : W26819
+2025-01-14 13:00:09,602 - INFO - Recherche des fichiers pour le code produit : W26820
+2025-01-14 13:00:14,828 - WARNING - Aucun fichier trouvé pour le code produit : W26820
+2025-01-14 13:00:14,829 - INFO - Recherche des fichiers pour le code produit : W26821
+2025-01-14 13:00:19,628 - WARNING - Aucun fichier trouvé pour le code produit : W26821
+2025-01-14 13:00:19,628 - INFO - Recherche des fichiers pour le code produit : W26822
+2025-01-14 13:00:24,943 - WARNING - Aucun fichier trouvé pour le code produit : W26822
+2025-01-14 13:00:24,943 - INFO - Recherche des fichiers pour le code produit : ZBG2659192RISOSO
+2025-01-14 13:00:29,767 - WARNING - Aucun fichier trouvé pour le code produit : ZBG2659192RISOSO
+2025-01-14 13:00:29,767 - INFO - Recherche des fichiers pour le code produit : ZBG2659198MGSASA
+2025-01-14 13:00:34,650 - WARNING - Aucun fichier trouvé pour le code produit : ZBG2659198MGSASA
+2025-01-14 13:00:34,650 - INFO - Recherche des fichiers pour le code produit : ZBG2659198MGSOSO
+2025-01-14 13:00:40,198 - WARNING - Aucun fichier trouvé pour le code produit : ZBG2659198MGSOSO
+2025-01-14 13:00:40,198 - INFO - Recherche des fichiers pour le code produit : ZBG2659198RHSASA
+2025-01-14 13:00:45,144 - WARNING - Aucun fichier trouvé pour le code produit : ZBG2659198RHSASA
+2025-01-14 13:00:45,145 - INFO - Recherche des fichiers pour le code produit : ZBG2659198RHSOSO
+2025-01-14 13:00:49,947 - WARNING - Aucun fichier trouvé pour le code produit : ZBG2659198RHSOSO
+2025-01-14 13:00:49,948 - INFO - Recherche des fichiers pour le code produit : ZBG2659198RISASA
+2025-01-14 13:00:54,800 - WARNING - Aucun fichier trouvé pour le code produit : ZBG2659198RISASA
+2025-01-14 13:00:54,801 - INFO - Recherche des fichiers pour le code produit : ZBG2659198RISOSO
+2025-01-14 13:00:59,693 - WARNING - Aucun fichier trouvé pour le code produit : ZBG2659198RISOSO
+2025-01-14 13:00:59,694 - INFO - Recherche des fichiers pour le code produit : ZBG2659230MGSASA
+2025-01-14 13:01:04,534 - WARNING - Aucun fichier trouvé pour le code produit : ZBG2659230MGSASA
+2025-01-14 13:01:04,535 - INFO - Recherche des fichiers pour le code produit : ZBG2659230MGSOSO
+2025-01-14 13:01:09,642 - WARNING - Aucun fichier trouvé pour le code produit : ZBG2659230MGSOSO
+2025-01-14 13:01:09,642 - INFO - Recherche des fichiers pour le code produit : ZBG2659230RHSASA
+2025-01-14 13:01:15,279 - WARNING - Aucun fichier trouvé pour le code produit : ZBG2659230RHSASA
+2025-01-14 13:01:15,280 - INFO - Recherche des fichiers pour le code produit : ZBG2659230RHSOSO
+2025-01-14 13:01:20,162 - WARNING - Aucun fichier trouvé pour le code produit : ZBG2659230RHSOSO
+2025-01-14 13:01:20,163 - INFO - Recherche des fichiers pour le code produit : ZBG2659230RISASA
+2025-01-14 13:01:25,156 - WARNING - Aucun fichier trouvé pour le code produit : ZBG2659230RISASA
+2025-01-14 13:01:25,157 - INFO - Recherche des fichiers pour le code produit : ZBG2659230RISOSO
+2025-01-14 13:01:29,999 - WARNING - Aucun fichier trouvé pour le code produit : ZBG2659230RISOSO
+2025-01-14 13:01:30,000 - INFO - Recherche des fichiers pour le code produit : ZBG2659232MGSASA
+2025-01-14 13:01:35,107 - WARNING - Aucun fichier trouvé pour le code produit : ZBG2659232MGSASA
+2025-01-14 13:01:35,107 - INFO - Recherche des fichiers pour le code produit : ZBG2659232MGSOSO
+2025-01-14 13:01:39,799 - WARNING - Aucun fichier trouvé pour le code produit : ZBG2659232MGSOSO
+2025-01-14 13:01:39,800 - INFO - Recherche des fichiers pour le code produit : ZBG2659232RHSASA
+2025-01-14 13:01:44,438 - WARNING - Aucun fichier trouvé pour le code produit : ZBG2659232RHSASA
+2025-01-14 13:01:44,438 - INFO - Recherche des fichiers pour le code produit : ZBG2659232RHSOSO
+2025-01-14 13:01:49,303 - WARNING - Aucun fichier trouvé pour le code produit : ZBG2659232RHSOSO
+2025-01-14 13:01:49,303 - INFO - Recherche des fichiers pour le code produit : ZBG2659232RISASA
+2025-01-14 13:01:54,516 - WARNING - Aucun fichier trouvé pour le code produit : ZBG2659232RISASA
+2025-01-14 13:01:54,523 - INFO - Fichier CSV généré avec les fichiers copiés : C:\Users\j.tresfield-exterieu\Documents\02 - Dev\python\projects\eps-to-jpg\copied_files_log.csv
+2025-01-14 13:01:54,523 - INFO - Traitement terminé.
